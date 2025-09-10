@@ -1,0 +1,2 @@
+ sudo cmake -DCMAKE_PREFIX_PATH=/home/catcat/libtorch -DCMAKE_BUILD_TYPE=Debug ..
+ sudo cmake --build . --config Release

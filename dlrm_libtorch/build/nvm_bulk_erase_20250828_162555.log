@@ -1,0 +1,4958 @@
+==> (a=0, b=0, c=0, d=0)
+==> (a=0, b=0, c=1, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0000000100000000, pugrp: 00, punit: 00, chunk: 0001, sectr: 0000}
+==> (a=0, b=0, c=2, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0000000200000000, pugrp: 00, punit: 00, chunk: 0002, sectr: 0000}
+==> (a=0, b=0, c=3, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0000000300000000, pugrp: 00, punit: 00, chunk: 0003, sectr: 0000}
+==> (a=0, b=0, c=4, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0000000400000000, pugrp: 00, punit: 00, chunk: 0004, sectr: 0000}
+==> (a=0, b=0, c=5, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0000000500000000, pugrp: 00, punit: 00, chunk: 0005, sectr: 0000}
+==> (a=0, b=0, c=6, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0000000600000000, pugrp: 00, punit: 00, chunk: 0006, sectr: 0000}
+==> (a=0, b=0, c=7, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0000000700000000, pugrp: 00, punit: 00, chunk: 0007, sectr: 0000}
+==> (a=0, b=0, c=8, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0000000800000000, pugrp: 00, punit: 00, chunk: 0008, sectr: 0000}
+==> (a=0, b=0, c=9, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0000000900000000, pugrp: 00, punit: 00, chunk: 0009, sectr: 0000}
+==> (a=0, b=0, c=10, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0000000a00000000, pugrp: 00, punit: 00, chunk: 0010, sectr: 0000}
+==> (a=0, b=0, c=11, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0000000b00000000, pugrp: 00, punit: 00, chunk: 0011, sectr: 0000}
+==> (a=0, b=0, c=12, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0000000c00000000, pugrp: 00, punit: 00, chunk: 0012, sectr: 0000}
+==> (a=0, b=0, c=13, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0000000d00000000, pugrp: 00, punit: 00, chunk: 0013, sectr: 0000}
+==> (a=0, b=0, c=14, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0000000e00000000, pugrp: 00, punit: 00, chunk: 0014, sectr: 0000}
+==> (a=0, b=0, c=15, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0000000f00000000, pugrp: 00, punit: 00, chunk: 0015, sectr: 0000}
+==> (a=0, b=0, c=16, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0000001000000000, pugrp: 00, punit: 00, chunk: 0016, sectr: 0000}
+==> (a=0, b=0, c=17, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0000001100000000, pugrp: 00, punit: 00, chunk: 0017, sectr: 0000}
+==> (a=0, b=0, c=18, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0000001200000000, pugrp: 00, punit: 00, chunk: 0018, sectr: 0000}
+==> (a=0, b=0, c=19, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0000001300000000, pugrp: 00, punit: 00, chunk: 0019, sectr: 0000}
+==> (a=0, b=0, c=20, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0000001400000000, pugrp: 00, punit: 00, chunk: 0020, sectr: 0000}
+==> (a=0, b=0, c=21, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0000001500000000, pugrp: 00, punit: 00, chunk: 0021, sectr: 0000}
+==> (a=0, b=0, c=22, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0000001600000000, pugrp: 00, punit: 00, chunk: 0022, sectr: 0000}
+==> (a=0, b=0, c=23, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0000001700000000, pugrp: 00, punit: 00, chunk: 0023, sectr: 0000}
+==> (a=0, b=0, c=24, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0000001800000000, pugrp: 00, punit: 00, chunk: 0024, sectr: 0000}
+==> (a=0, b=0, c=25, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0000001900000000, pugrp: 00, punit: 00, chunk: 0025, sectr: 0000}
+==> (a=0, b=0, c=26, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0000001a00000000, pugrp: 00, punit: 00, chunk: 0026, sectr: 0000}
+==> (a=0, b=0, c=27, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0000001b00000000, pugrp: 00, punit: 00, chunk: 0027, sectr: 0000}
+==> (a=0, b=0, c=28, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0000001c00000000, pugrp: 00, punit: 00, chunk: 0028, sectr: 0000}
+==> (a=0, b=0, c=29, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0000001d00000000, pugrp: 00, punit: 00, chunk: 0029, sectr: 0000}
+==> (a=0, b=1, c=0, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0001000000000000, pugrp: 00, punit: 01, chunk: 0000, sectr: 0000}
+==> (a=0, b=1, c=1, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0001000100000000, pugrp: 00, punit: 01, chunk: 0001, sectr: 0000}
+==> (a=0, b=1, c=2, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0001000200000000, pugrp: 00, punit: 01, chunk: 0002, sectr: 0000}
+==> (a=0, b=1, c=3, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0001000300000000, pugrp: 00, punit: 01, chunk: 0003, sectr: 0000}
+==> (a=0, b=1, c=4, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0001000400000000, pugrp: 00, punit: 01, chunk: 0004, sectr: 0000}
+==> (a=0, b=1, c=5, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0001000500000000, pugrp: 00, punit: 01, chunk: 0005, sectr: 0000}
+==> (a=0, b=1, c=6, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0001000600000000, pugrp: 00, punit: 01, chunk: 0006, sectr: 0000}
+==> (a=0, b=1, c=7, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0001000700000000, pugrp: 00, punit: 01, chunk: 0007, sectr: 0000}
+==> (a=0, b=1, c=8, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0001000800000000, pugrp: 00, punit: 01, chunk: 0008, sectr: 0000}
+==> (a=0, b=1, c=9, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0001000900000000, pugrp: 00, punit: 01, chunk: 0009, sectr: 0000}
+==> (a=0, b=1, c=10, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0001000a00000000, pugrp: 00, punit: 01, chunk: 0010, sectr: 0000}
+==> (a=0, b=1, c=11, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0001000b00000000, pugrp: 00, punit: 01, chunk: 0011, sectr: 0000}
+==> (a=0, b=1, c=12, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0001000c00000000, pugrp: 00, punit: 01, chunk: 0012, sectr: 0000}
+==> (a=0, b=1, c=13, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0001000d00000000, pugrp: 00, punit: 01, chunk: 0013, sectr: 0000}
+==> (a=0, b=1, c=14, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0001000e00000000, pugrp: 00, punit: 01, chunk: 0014, sectr: 0000}
+==> (a=0, b=1, c=15, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0001000f00000000, pugrp: 00, punit: 01, chunk: 0015, sectr: 0000}
+==> (a=0, b=1, c=16, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0001001000000000, pugrp: 00, punit: 01, chunk: 0016, sectr: 0000}
+==> (a=0, b=1, c=17, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0001001100000000, pugrp: 00, punit: 01, chunk: 0017, sectr: 0000}
+==> (a=0, b=1, c=18, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0001001200000000, pugrp: 00, punit: 01, chunk: 0018, sectr: 0000}
+==> (a=0, b=1, c=19, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0001001300000000, pugrp: 00, punit: 01, chunk: 0019, sectr: 0000}
+==> (a=0, b=1, c=20, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0001001400000000, pugrp: 00, punit: 01, chunk: 0020, sectr: 0000}
+==> (a=0, b=1, c=21, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0001001500000000, pugrp: 00, punit: 01, chunk: 0021, sectr: 0000}
+==> (a=0, b=1, c=22, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0001001600000000, pugrp: 00, punit: 01, chunk: 0022, sectr: 0000}
+==> (a=0, b=1, c=23, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0001001700000000, pugrp: 00, punit: 01, chunk: 0023, sectr: 0000}
+==> (a=0, b=1, c=24, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0001001800000000, pugrp: 00, punit: 01, chunk: 0024, sectr: 0000}
+==> (a=0, b=1, c=25, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0001001900000000, pugrp: 00, punit: 01, chunk: 0025, sectr: 0000}
+==> (a=0, b=1, c=26, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0001001a00000000, pugrp: 00, punit: 01, chunk: 0026, sectr: 0000}
+==> (a=0, b=1, c=27, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0001001b00000000, pugrp: 00, punit: 01, chunk: 0027, sectr: 0000}
+==> (a=0, b=1, c=28, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0001001c00000000, pugrp: 00, punit: 01, chunk: 0028, sectr: 0000}
+==> (a=0, b=1, c=29, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0001001d00000000, pugrp: 00, punit: 01, chunk: 0029, sectr: 0000}
+==> (a=0, b=2, c=0, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0002000000000000, pugrp: 00, punit: 02, chunk: 0000, sectr: 0000}
+==> (a=0, b=2, c=1, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0002000100000000, pugrp: 00, punit: 02, chunk: 0001, sectr: 0000}
+==> (a=0, b=2, c=2, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0002000200000000, pugrp: 00, punit: 02, chunk: 0002, sectr: 0000}
+==> (a=0, b=2, c=3, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0002000300000000, pugrp: 00, punit: 02, chunk: 0003, sectr: 0000}
+==> (a=0, b=2, c=4, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0002000400000000, pugrp: 00, punit: 02, chunk: 0004, sectr: 0000}
+==> (a=0, b=2, c=5, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0002000500000000, pugrp: 00, punit: 02, chunk: 0005, sectr: 0000}
+==> (a=0, b=2, c=6, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0002000600000000, pugrp: 00, punit: 02, chunk: 0006, sectr: 0000}
+==> (a=0, b=2, c=7, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0002000700000000, pugrp: 00, punit: 02, chunk: 0007, sectr: 0000}
+==> (a=0, b=2, c=8, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0002000800000000, pugrp: 00, punit: 02, chunk: 0008, sectr: 0000}
+==> (a=0, b=2, c=9, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0002000900000000, pugrp: 00, punit: 02, chunk: 0009, sectr: 0000}
+==> (a=0, b=2, c=10, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0002000a00000000, pugrp: 00, punit: 02, chunk: 0010, sectr: 0000}
+==> (a=0, b=2, c=11, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0002000b00000000, pugrp: 00, punit: 02, chunk: 0011, sectr: 0000}
+==> (a=0, b=2, c=12, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0002000c00000000, pugrp: 00, punit: 02, chunk: 0012, sectr: 0000}
+==> (a=0, b=2, c=13, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0002000d00000000, pugrp: 00, punit: 02, chunk: 0013, sectr: 0000}
+==> (a=0, b=2, c=14, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0002000e00000000, pugrp: 00, punit: 02, chunk: 0014, sectr: 0000}
+==> (a=0, b=2, c=15, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0002000f00000000, pugrp: 00, punit: 02, chunk: 0015, sectr: 0000}
+==> (a=0, b=2, c=16, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0002001000000000, pugrp: 00, punit: 02, chunk: 0016, sectr: 0000}
+==> (a=0, b=2, c=17, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0002001100000000, pugrp: 00, punit: 02, chunk: 0017, sectr: 0000}
+==> (a=0, b=2, c=18, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0002001200000000, pugrp: 00, punit: 02, chunk: 0018, sectr: 0000}
+==> (a=0, b=2, c=19, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0002001300000000, pugrp: 00, punit: 02, chunk: 0019, sectr: 0000}
+==> (a=0, b=2, c=20, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0002001400000000, pugrp: 00, punit: 02, chunk: 0020, sectr: 0000}
+==> (a=0, b=2, c=21, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0002001500000000, pugrp: 00, punit: 02, chunk: 0021, sectr: 0000}
+==> (a=0, b=2, c=22, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0002001600000000, pugrp: 00, punit: 02, chunk: 0022, sectr: 0000}
+==> (a=0, b=2, c=23, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0002001700000000, pugrp: 00, punit: 02, chunk: 0023, sectr: 0000}
+==> (a=0, b=2, c=24, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0002001800000000, pugrp: 00, punit: 02, chunk: 0024, sectr: 0000}
+==> (a=0, b=2, c=25, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0002001900000000, pugrp: 00, punit: 02, chunk: 0025, sectr: 0000}
+==> (a=0, b=2, c=26, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0002001a00000000, pugrp: 00, punit: 02, chunk: 0026, sectr: 0000}
+==> (a=0, b=2, c=27, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0002001b00000000, pugrp: 00, punit: 02, chunk: 0027, sectr: 0000}
+==> (a=0, b=2, c=28, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0002001c00000000, pugrp: 00, punit: 02, chunk: 0028, sectr: 0000}
+==> (a=0, b=2, c=29, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0002001d00000000, pugrp: 00, punit: 02, chunk: 0029, sectr: 0000}
+==> (a=0, b=3, c=0, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0003000000000000, pugrp: 00, punit: 03, chunk: 0000, sectr: 0000}
+==> (a=0, b=3, c=1, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0003000100000000, pugrp: 00, punit: 03, chunk: 0001, sectr: 0000}
+==> (a=0, b=3, c=2, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0003000200000000, pugrp: 00, punit: 03, chunk: 0002, sectr: 0000}
+==> (a=0, b=3, c=3, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0003000300000000, pugrp: 00, punit: 03, chunk: 0003, sectr: 0000}
+==> (a=0, b=3, c=4, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0003000400000000, pugrp: 00, punit: 03, chunk: 0004, sectr: 0000}
+==> (a=0, b=3, c=5, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0003000500000000, pugrp: 00, punit: 03, chunk: 0005, sectr: 0000}
+==> (a=0, b=3, c=6, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0003000600000000, pugrp: 00, punit: 03, chunk: 0006, sectr: 0000}
+==> (a=0, b=3, c=7, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0003000700000000, pugrp: 00, punit: 03, chunk: 0007, sectr: 0000}
+==> (a=0, b=3, c=8, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0003000800000000, pugrp: 00, punit: 03, chunk: 0008, sectr: 0000}
+==> (a=0, b=3, c=9, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0003000900000000, pugrp: 00, punit: 03, chunk: 0009, sectr: 0000}
+==> (a=0, b=3, c=10, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0003000a00000000, pugrp: 00, punit: 03, chunk: 0010, sectr: 0000}
+==> (a=0, b=3, c=11, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0003000b00000000, pugrp: 00, punit: 03, chunk: 0011, sectr: 0000}
+==> (a=0, b=3, c=12, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0003000c00000000, pugrp: 00, punit: 03, chunk: 0012, sectr: 0000}
+==> (a=0, b=3, c=13, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0003000d00000000, pugrp: 00, punit: 03, chunk: 0013, sectr: 0000}
+==> (a=0, b=3, c=14, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0003000e00000000, pugrp: 00, punit: 03, chunk: 0014, sectr: 0000}
+==> (a=0, b=3, c=15, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0003000f00000000, pugrp: 00, punit: 03, chunk: 0015, sectr: 0000}
+==> (a=0, b=3, c=16, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0003001000000000, pugrp: 00, punit: 03, chunk: 0016, sectr: 0000}
+==> (a=0, b=3, c=17, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0003001100000000, pugrp: 00, punit: 03, chunk: 0017, sectr: 0000}
+==> (a=0, b=3, c=18, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0003001200000000, pugrp: 00, punit: 03, chunk: 0018, sectr: 0000}
+==> (a=0, b=3, c=19, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0003001300000000, pugrp: 00, punit: 03, chunk: 0019, sectr: 0000}
+==> (a=0, b=3, c=20, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0003001400000000, pugrp: 00, punit: 03, chunk: 0020, sectr: 0000}
+==> (a=0, b=3, c=21, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0003001500000000, pugrp: 00, punit: 03, chunk: 0021, sectr: 0000}
+==> (a=0, b=3, c=22, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0003001600000000, pugrp: 00, punit: 03, chunk: 0022, sectr: 0000}
+==> (a=0, b=3, c=23, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0003001700000000, pugrp: 00, punit: 03, chunk: 0023, sectr: 0000}
+==> (a=0, b=3, c=24, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0003001800000000, pugrp: 00, punit: 03, chunk: 0024, sectr: 0000}
+==> (a=0, b=3, c=25, d=0)
+# nvm_cmd_erase: Input/output error
+# erase: Invalid argument
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0003001900000000, pugrp: 00, punit: 03, chunk: 0025, sectr: 0000}
+nvm_ret: {result: {cdw0: 0x0, vio: {cs: 0x0}}, status: 0x2c1}
+==> (a=0, b=3, c=26, d=0)
+# nvm_cmd_erase: Input/output error
+# erase: Invalid argument
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0003001a00000000, pugrp: 00, punit: 03, chunk: 0026, sectr: 0000}
+nvm_ret: {result: {cdw0: 0x0, vio: {cs: 0x0}}, status: 0x2c1}
+==> (a=0, b=3, c=27, d=0)
+# nvm_cmd_erase: Input/output error
+# erase: Invalid argument
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0003001b00000000, pugrp: 00, punit: 03, chunk: 0027, sectr: 0000}
+nvm_ret: {result: {cdw0: 0x0, vio: {cs: 0x0}}, status: 0x2c1}
+==> (a=0, b=3, c=28, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0003001c00000000, pugrp: 00, punit: 03, chunk: 0028, sectr: 0000}
+==> (a=0, b=3, c=29, d=0)
+# nvm_cmd_erase: Input/output error
+# erase: Invalid argument
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0003001d00000000, pugrp: 00, punit: 03, chunk: 0029, sectr: 0000}
+nvm_ret: {result: {cdw0: 0x0, vio: {cs: 0x0}}, status: 0x2c1}
+==> (a=1, b=0, c=0, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0100000000000000, pugrp: 01, punit: 00, chunk: 0000, sectr: 0000}
+==> (a=1, b=0, c=1, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0100000100000000, pugrp: 01, punit: 00, chunk: 0001, sectr: 0000}
+==> (a=1, b=0, c=2, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0100000200000000, pugrp: 01, punit: 00, chunk: 0002, sectr: 0000}
+==> (a=1, b=0, c=3, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0100000300000000, pugrp: 01, punit: 00, chunk: 0003, sectr: 0000}
+==> (a=1, b=0, c=4, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0100000400000000, pugrp: 01, punit: 00, chunk: 0004, sectr: 0000}
+==> (a=1, b=0, c=5, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0100000500000000, pugrp: 01, punit: 00, chunk: 0005, sectr: 0000}
+==> (a=1, b=0, c=6, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0100000600000000, pugrp: 01, punit: 00, chunk: 0006, sectr: 0000}
+==> (a=1, b=0, c=7, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0100000700000000, pugrp: 01, punit: 00, chunk: 0007, sectr: 0000}
+==> (a=1, b=0, c=8, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0100000800000000, pugrp: 01, punit: 00, chunk: 0008, sectr: 0000}
+==> (a=1, b=0, c=9, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0100000900000000, pugrp: 01, punit: 00, chunk: 0009, sectr: 0000}
+==> (a=1, b=0, c=10, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0100000a00000000, pugrp: 01, punit: 00, chunk: 0010, sectr: 0000}
+==> (a=1, b=0, c=11, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0100000b00000000, pugrp: 01, punit: 00, chunk: 0011, sectr: 0000}
+==> (a=1, b=0, c=12, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0100000c00000000, pugrp: 01, punit: 00, chunk: 0012, sectr: 0000}
+==> (a=1, b=0, c=13, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0100000d00000000, pugrp: 01, punit: 00, chunk: 0013, sectr: 0000}
+==> (a=1, b=0, c=14, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0100000e00000000, pugrp: 01, punit: 00, chunk: 0014, sectr: 0000}
+==> (a=1, b=0, c=15, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0100000f00000000, pugrp: 01, punit: 00, chunk: 0015, sectr: 0000}
+==> (a=1, b=0, c=16, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0100001000000000, pugrp: 01, punit: 00, chunk: 0016, sectr: 0000}
+==> (a=1, b=0, c=17, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0100001100000000, pugrp: 01, punit: 00, chunk: 0017, sectr: 0000}
+==> (a=1, b=0, c=18, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0100001200000000, pugrp: 01, punit: 00, chunk: 0018, sectr: 0000}
+==> (a=1, b=0, c=19, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0100001300000000, pugrp: 01, punit: 00, chunk: 0019, sectr: 0000}
+==> (a=1, b=0, c=20, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0100001400000000, pugrp: 01, punit: 00, chunk: 0020, sectr: 0000}
+==> (a=1, b=0, c=21, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0100001500000000, pugrp: 01, punit: 00, chunk: 0021, sectr: 0000}
+==> (a=1, b=0, c=22, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0100001600000000, pugrp: 01, punit: 00, chunk: 0022, sectr: 0000}
+==> (a=1, b=0, c=23, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0100001700000000, pugrp: 01, punit: 00, chunk: 0023, sectr: 0000}
+==> (a=1, b=0, c=24, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0100001800000000, pugrp: 01, punit: 00, chunk: 0024, sectr: 0000}
+==> (a=1, b=0, c=25, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0100001900000000, pugrp: 01, punit: 00, chunk: 0025, sectr: 0000}
+==> (a=1, b=0, c=26, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0100001a00000000, pugrp: 01, punit: 00, chunk: 0026, sectr: 0000}
+==> (a=1, b=0, c=27, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0100001b00000000, pugrp: 01, punit: 00, chunk: 0027, sectr: 0000}
+==> (a=1, b=0, c=28, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0100001c00000000, pugrp: 01, punit: 00, chunk: 0028, sectr: 0000}
+==> (a=1, b=0, c=29, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0100001d00000000, pugrp: 01, punit: 00, chunk: 0029, sectr: 0000}
+==> (a=1, b=1, c=0, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0101000000000000, pugrp: 01, punit: 01, chunk: 0000, sectr: 0000}
+==> (a=1, b=1, c=1, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0101000100000000, pugrp: 01, punit: 01, chunk: 0001, sectr: 0000}
+==> (a=1, b=1, c=2, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0101000200000000, pugrp: 01, punit: 01, chunk: 0002, sectr: 0000}
+==> (a=1, b=1, c=3, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0101000300000000, pugrp: 01, punit: 01, chunk: 0003, sectr: 0000}
+==> (a=1, b=1, c=4, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0101000400000000, pugrp: 01, punit: 01, chunk: 0004, sectr: 0000}
+==> (a=1, b=1, c=5, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0101000500000000, pugrp: 01, punit: 01, chunk: 0005, sectr: 0000}
+==> (a=1, b=1, c=6, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0101000600000000, pugrp: 01, punit: 01, chunk: 0006, sectr: 0000}
+==> (a=1, b=1, c=7, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0101000700000000, pugrp: 01, punit: 01, chunk: 0007, sectr: 0000}
+==> (a=1, b=1, c=8, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0101000800000000, pugrp: 01, punit: 01, chunk: 0008, sectr: 0000}
+==> (a=1, b=1, c=9, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0101000900000000, pugrp: 01, punit: 01, chunk: 0009, sectr: 0000}
+==> (a=1, b=1, c=10, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0101000a00000000, pugrp: 01, punit: 01, chunk: 0010, sectr: 0000}
+==> (a=1, b=1, c=11, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0101000b00000000, pugrp: 01, punit: 01, chunk: 0011, sectr: 0000}
+==> (a=1, b=1, c=12, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0101000c00000000, pugrp: 01, punit: 01, chunk: 0012, sectr: 0000}
+==> (a=1, b=1, c=13, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0101000d00000000, pugrp: 01, punit: 01, chunk: 0013, sectr: 0000}
+==> (a=1, b=1, c=14, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0101000e00000000, pugrp: 01, punit: 01, chunk: 0014, sectr: 0000}
+==> (a=1, b=1, c=15, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0101000f00000000, pugrp: 01, punit: 01, chunk: 0015, sectr: 0000}
+==> (a=1, b=1, c=16, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0101001000000000, pugrp: 01, punit: 01, chunk: 0016, sectr: 0000}
+==> (a=1, b=1, c=17, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0101001100000000, pugrp: 01, punit: 01, chunk: 0017, sectr: 0000}
+==> (a=1, b=1, c=18, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0101001200000000, pugrp: 01, punit: 01, chunk: 0018, sectr: 0000}
+==> (a=1, b=1, c=19, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0101001300000000, pugrp: 01, punit: 01, chunk: 0019, sectr: 0000}
+==> (a=1, b=1, c=20, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0101001400000000, pugrp: 01, punit: 01, chunk: 0020, sectr: 0000}
+==> (a=1, b=1, c=21, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0101001500000000, pugrp: 01, punit: 01, chunk: 0021, sectr: 0000}
+==> (a=1, b=1, c=22, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0101001600000000, pugrp: 01, punit: 01, chunk: 0022, sectr: 0000}
+==> (a=1, b=1, c=23, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0101001700000000, pugrp: 01, punit: 01, chunk: 0023, sectr: 0000}
+==> (a=1, b=1, c=24, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0101001800000000, pugrp: 01, punit: 01, chunk: 0024, sectr: 0000}
+==> (a=1, b=1, c=25, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0101001900000000, pugrp: 01, punit: 01, chunk: 0025, sectr: 0000}
+==> (a=1, b=1, c=26, d=0)
+# nvm_cmd_erase: Input/output error
+# erase: Invalid argument
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0101001a00000000, pugrp: 01, punit: 01, chunk: 0026, sectr: 0000}
+nvm_ret: {result: {cdw0: 0x0, vio: {cs: 0x0}}, status: 0x2c1}
+==> (a=1, b=1, c=27, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0101001b00000000, pugrp: 01, punit: 01, chunk: 0027, sectr: 0000}
+==> (a=1, b=1, c=28, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0101001c00000000, pugrp: 01, punit: 01, chunk: 0028, sectr: 0000}
+==> (a=1, b=1, c=29, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0101001d00000000, pugrp: 01, punit: 01, chunk: 0029, sectr: 0000}
+==> (a=1, b=2, c=0, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0102000000000000, pugrp: 01, punit: 02, chunk: 0000, sectr: 0000}
+==> (a=1, b=2, c=1, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0102000100000000, pugrp: 01, punit: 02, chunk: 0001, sectr: 0000}
+==> (a=1, b=2, c=2, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0102000200000000, pugrp: 01, punit: 02, chunk: 0002, sectr: 0000}
+==> (a=1, b=2, c=3, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0102000300000000, pugrp: 01, punit: 02, chunk: 0003, sectr: 0000}
+==> (a=1, b=2, c=4, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0102000400000000, pugrp: 01, punit: 02, chunk: 0004, sectr: 0000}
+==> (a=1, b=2, c=5, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0102000500000000, pugrp: 01, punit: 02, chunk: 0005, sectr: 0000}
+==> (a=1, b=2, c=6, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0102000600000000, pugrp: 01, punit: 02, chunk: 0006, sectr: 0000}
+==> (a=1, b=2, c=7, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0102000700000000, pugrp: 01, punit: 02, chunk: 0007, sectr: 0000}
+==> (a=1, b=2, c=8, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0102000800000000, pugrp: 01, punit: 02, chunk: 0008, sectr: 0000}
+==> (a=1, b=2, c=9, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0102000900000000, pugrp: 01, punit: 02, chunk: 0009, sectr: 0000}
+==> (a=1, b=2, c=10, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0102000a00000000, pugrp: 01, punit: 02, chunk: 0010, sectr: 0000}
+==> (a=1, b=2, c=11, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0102000b00000000, pugrp: 01, punit: 02, chunk: 0011, sectr: 0000}
+==> (a=1, b=2, c=12, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0102000c00000000, pugrp: 01, punit: 02, chunk: 0012, sectr: 0000}
+==> (a=1, b=2, c=13, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0102000d00000000, pugrp: 01, punit: 02, chunk: 0013, sectr: 0000}
+==> (a=1, b=2, c=14, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0102000e00000000, pugrp: 01, punit: 02, chunk: 0014, sectr: 0000}
+==> (a=1, b=2, c=15, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0102000f00000000, pugrp: 01, punit: 02, chunk: 0015, sectr: 0000}
+==> (a=1, b=2, c=16, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0102001000000000, pugrp: 01, punit: 02, chunk: 0016, sectr: 0000}
+==> (a=1, b=2, c=17, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0102001100000000, pugrp: 01, punit: 02, chunk: 0017, sectr: 0000}
+==> (a=1, b=2, c=18, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0102001200000000, pugrp: 01, punit: 02, chunk: 0018, sectr: 0000}
+==> (a=1, b=2, c=19, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0102001300000000, pugrp: 01, punit: 02, chunk: 0019, sectr: 0000}
+==> (a=1, b=2, c=20, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0102001400000000, pugrp: 01, punit: 02, chunk: 0020, sectr: 0000}
+==> (a=1, b=2, c=21, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0102001500000000, pugrp: 01, punit: 02, chunk: 0021, sectr: 0000}
+==> (a=1, b=2, c=22, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0102001600000000, pugrp: 01, punit: 02, chunk: 0022, sectr: 0000}
+==> (a=1, b=2, c=23, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0102001700000000, pugrp: 01, punit: 02, chunk: 0023, sectr: 0000}
+==> (a=1, b=2, c=24, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0102001800000000, pugrp: 01, punit: 02, chunk: 0024, sectr: 0000}
+==> (a=1, b=2, c=25, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0102001900000000, pugrp: 01, punit: 02, chunk: 0025, sectr: 0000}
+==> (a=1, b=2, c=26, d=0)
+# nvm_cmd_erase: Input/output error
+# erase: Invalid argument
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0102001a00000000, pugrp: 01, punit: 02, chunk: 0026, sectr: 0000}
+nvm_ret: {result: {cdw0: 0x0, vio: {cs: 0x0}}, status: 0x2c1}
+==> (a=1, b=2, c=27, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0102001b00000000, pugrp: 01, punit: 02, chunk: 0027, sectr: 0000}
+==> (a=1, b=2, c=28, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0102001c00000000, pugrp: 01, punit: 02, chunk: 0028, sectr: 0000}
+==> (a=1, b=2, c=29, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0102001d00000000, pugrp: 01, punit: 02, chunk: 0029, sectr: 0000}
+==> (a=1, b=3, c=0, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0103000000000000, pugrp: 01, punit: 03, chunk: 0000, sectr: 0000}
+==> (a=1, b=3, c=1, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0103000100000000, pugrp: 01, punit: 03, chunk: 0001, sectr: 0000}
+==> (a=1, b=3, c=2, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0103000200000000, pugrp: 01, punit: 03, chunk: 0002, sectr: 0000}
+==> (a=1, b=3, c=3, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0103000300000000, pugrp: 01, punit: 03, chunk: 0003, sectr: 0000}
+==> (a=1, b=3, c=4, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0103000400000000, pugrp: 01, punit: 03, chunk: 0004, sectr: 0000}
+==> (a=1, b=3, c=5, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0103000500000000, pugrp: 01, punit: 03, chunk: 0005, sectr: 0000}
+==> (a=1, b=3, c=6, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0103000600000000, pugrp: 01, punit: 03, chunk: 0006, sectr: 0000}
+==> (a=1, b=3, c=7, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0103000700000000, pugrp: 01, punit: 03, chunk: 0007, sectr: 0000}
+==> (a=1, b=3, c=8, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0103000800000000, pugrp: 01, punit: 03, chunk: 0008, sectr: 0000}
+==> (a=1, b=3, c=9, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0103000900000000, pugrp: 01, punit: 03, chunk: 0009, sectr: 0000}
+==> (a=1, b=3, c=10, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0103000a00000000, pugrp: 01, punit: 03, chunk: 0010, sectr: 0000}
+==> (a=1, b=3, c=11, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0103000b00000000, pugrp: 01, punit: 03, chunk: 0011, sectr: 0000}
+==> (a=1, b=3, c=12, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0103000c00000000, pugrp: 01, punit: 03, chunk: 0012, sectr: 0000}
+==> (a=1, b=3, c=13, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0103000d00000000, pugrp: 01, punit: 03, chunk: 0013, sectr: 0000}
+==> (a=1, b=3, c=14, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0103000e00000000, pugrp: 01, punit: 03, chunk: 0014, sectr: 0000}
+==> (a=1, b=3, c=15, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0103000f00000000, pugrp: 01, punit: 03, chunk: 0015, sectr: 0000}
+==> (a=1, b=3, c=16, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0103001000000000, pugrp: 01, punit: 03, chunk: 0016, sectr: 0000}
+==> (a=1, b=3, c=17, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0103001100000000, pugrp: 01, punit: 03, chunk: 0017, sectr: 0000}
+==> (a=1, b=3, c=18, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0103001200000000, pugrp: 01, punit: 03, chunk: 0018, sectr: 0000}
+==> (a=1, b=3, c=19, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0103001300000000, pugrp: 01, punit: 03, chunk: 0019, sectr: 0000}
+==> (a=1, b=3, c=20, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0103001400000000, pugrp: 01, punit: 03, chunk: 0020, sectr: 0000}
+==> (a=1, b=3, c=21, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0103001500000000, pugrp: 01, punit: 03, chunk: 0021, sectr: 0000}
+==> (a=1, b=3, c=22, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0103001600000000, pugrp: 01, punit: 03, chunk: 0022, sectr: 0000}
+==> (a=1, b=3, c=23, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0103001700000000, pugrp: 01, punit: 03, chunk: 0023, sectr: 0000}
+==> (a=1, b=3, c=24, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0103001800000000, pugrp: 01, punit: 03, chunk: 0024, sectr: 0000}
+==> (a=1, b=3, c=25, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0103001900000000, pugrp: 01, punit: 03, chunk: 0025, sectr: 0000}
+==> (a=1, b=3, c=26, d=0)
+# nvm_cmd_erase: Input/output error
+# erase: Invalid argument
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0103001a00000000, pugrp: 01, punit: 03, chunk: 0026, sectr: 0000}
+nvm_ret: {result: {cdw0: 0x0, vio: {cs: 0x0}}, status: 0x2c1}
+==> (a=1, b=3, c=27, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0103001b00000000, pugrp: 01, punit: 03, chunk: 0027, sectr: 0000}
+==> (a=1, b=3, c=28, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0103001c00000000, pugrp: 01, punit: 03, chunk: 0028, sectr: 0000}
+==> (a=1, b=3, c=29, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0103001d00000000, pugrp: 01, punit: 03, chunk: 0029, sectr: 0000}
+==> (a=2, b=0, c=0, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0200000000000000, pugrp: 02, punit: 00, chunk: 0000, sectr: 0000}
+==> (a=2, b=0, c=1, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0200000100000000, pugrp: 02, punit: 00, chunk: 0001, sectr: 0000}
+==> (a=2, b=0, c=2, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0200000200000000, pugrp: 02, punit: 00, chunk: 0002, sectr: 0000}
+==> (a=2, b=0, c=3, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0200000300000000, pugrp: 02, punit: 00, chunk: 0003, sectr: 0000}
+==> (a=2, b=0, c=4, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0200000400000000, pugrp: 02, punit: 00, chunk: 0004, sectr: 0000}
+==> (a=2, b=0, c=5, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0200000500000000, pugrp: 02, punit: 00, chunk: 0005, sectr: 0000}
+==> (a=2, b=0, c=6, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0200000600000000, pugrp: 02, punit: 00, chunk: 0006, sectr: 0000}
+==> (a=2, b=0, c=7, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0200000700000000, pugrp: 02, punit: 00, chunk: 0007, sectr: 0000}
+==> (a=2, b=0, c=8, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0200000800000000, pugrp: 02, punit: 00, chunk: 0008, sectr: 0000}
+==> (a=2, b=0, c=9, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0200000900000000, pugrp: 02, punit: 00, chunk: 0009, sectr: 0000}
+==> (a=2, b=0, c=10, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0200000a00000000, pugrp: 02, punit: 00, chunk: 0010, sectr: 0000}
+==> (a=2, b=0, c=11, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0200000b00000000, pugrp: 02, punit: 00, chunk: 0011, sectr: 0000}
+==> (a=2, b=0, c=12, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0200000c00000000, pugrp: 02, punit: 00, chunk: 0012, sectr: 0000}
+==> (a=2, b=0, c=13, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0200000d00000000, pugrp: 02, punit: 00, chunk: 0013, sectr: 0000}
+==> (a=2, b=0, c=14, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0200000e00000000, pugrp: 02, punit: 00, chunk: 0014, sectr: 0000}
+==> (a=2, b=0, c=15, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0200000f00000000, pugrp: 02, punit: 00, chunk: 0015, sectr: 0000}
+==> (a=2, b=0, c=16, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0200001000000000, pugrp: 02, punit: 00, chunk: 0016, sectr: 0000}
+==> (a=2, b=0, c=17, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0200001100000000, pugrp: 02, punit: 00, chunk: 0017, sectr: 0000}
+==> (a=2, b=0, c=18, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0200001200000000, pugrp: 02, punit: 00, chunk: 0018, sectr: 0000}
+==> (a=2, b=0, c=19, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0200001300000000, pugrp: 02, punit: 00, chunk: 0019, sectr: 0000}
+==> (a=2, b=0, c=20, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0200001400000000, pugrp: 02, punit: 00, chunk: 0020, sectr: 0000}
+==> (a=2, b=0, c=21, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0200001500000000, pugrp: 02, punit: 00, chunk: 0021, sectr: 0000}
+==> (a=2, b=0, c=22, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0200001600000000, pugrp: 02, punit: 00, chunk: 0022, sectr: 0000}
+==> (a=2, b=0, c=23, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0200001700000000, pugrp: 02, punit: 00, chunk: 0023, sectr: 0000}
+==> (a=2, b=0, c=24, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0200001800000000, pugrp: 02, punit: 00, chunk: 0024, sectr: 0000}
+==> (a=2, b=0, c=25, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0200001900000000, pugrp: 02, punit: 00, chunk: 0025, sectr: 0000}
+==> (a=2, b=0, c=26, d=0)
+# nvm_cmd_erase: Input/output error
+# erase: Invalid argument
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0200001a00000000, pugrp: 02, punit: 00, chunk: 0026, sectr: 0000}
+nvm_ret: {result: {cdw0: 0x0, vio: {cs: 0x0}}, status: 0x2c1}
+==> (a=2, b=0, c=27, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0200001b00000000, pugrp: 02, punit: 00, chunk: 0027, sectr: 0000}
+==> (a=2, b=0, c=28, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0200001c00000000, pugrp: 02, punit: 00, chunk: 0028, sectr: 0000}
+==> (a=2, b=0, c=29, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0200001d00000000, pugrp: 02, punit: 00, chunk: 0029, sectr: 0000}
+==> (a=2, b=1, c=0, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0201000000000000, pugrp: 02, punit: 01, chunk: 0000, sectr: 0000}
+==> (a=2, b=1, c=1, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0201000100000000, pugrp: 02, punit: 01, chunk: 0001, sectr: 0000}
+==> (a=2, b=1, c=2, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0201000200000000, pugrp: 02, punit: 01, chunk: 0002, sectr: 0000}
+==> (a=2, b=1, c=3, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0201000300000000, pugrp: 02, punit: 01, chunk: 0003, sectr: 0000}
+==> (a=2, b=1, c=4, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0201000400000000, pugrp: 02, punit: 01, chunk: 0004, sectr: 0000}
+==> (a=2, b=1, c=5, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0201000500000000, pugrp: 02, punit: 01, chunk: 0005, sectr: 0000}
+==> (a=2, b=1, c=6, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0201000600000000, pugrp: 02, punit: 01, chunk: 0006, sectr: 0000}
+==> (a=2, b=1, c=7, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0201000700000000, pugrp: 02, punit: 01, chunk: 0007, sectr: 0000}
+==> (a=2, b=1, c=8, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0201000800000000, pugrp: 02, punit: 01, chunk: 0008, sectr: 0000}
+==> (a=2, b=1, c=9, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0201000900000000, pugrp: 02, punit: 01, chunk: 0009, sectr: 0000}
+==> (a=2, b=1, c=10, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0201000a00000000, pugrp: 02, punit: 01, chunk: 0010, sectr: 0000}
+==> (a=2, b=1, c=11, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0201000b00000000, pugrp: 02, punit: 01, chunk: 0011, sectr: 0000}
+==> (a=2, b=1, c=12, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0201000c00000000, pugrp: 02, punit: 01, chunk: 0012, sectr: 0000}
+==> (a=2, b=1, c=13, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0201000d00000000, pugrp: 02, punit: 01, chunk: 0013, sectr: 0000}
+==> (a=2, b=1, c=14, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0201000e00000000, pugrp: 02, punit: 01, chunk: 0014, sectr: 0000}
+==> (a=2, b=1, c=15, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0201000f00000000, pugrp: 02, punit: 01, chunk: 0015, sectr: 0000}
+==> (a=2, b=1, c=16, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0201001000000000, pugrp: 02, punit: 01, chunk: 0016, sectr: 0000}
+==> (a=2, b=1, c=17, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0201001100000000, pugrp: 02, punit: 01, chunk: 0017, sectr: 0000}
+==> (a=2, b=1, c=18, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0201001200000000, pugrp: 02, punit: 01, chunk: 0018, sectr: 0000}
+==> (a=2, b=1, c=19, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0201001300000000, pugrp: 02, punit: 01, chunk: 0019, sectr: 0000}
+==> (a=2, b=1, c=20, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0201001400000000, pugrp: 02, punit: 01, chunk: 0020, sectr: 0000}
+==> (a=2, b=1, c=21, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0201001500000000, pugrp: 02, punit: 01, chunk: 0021, sectr: 0000}
+==> (a=2, b=1, c=22, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0201001600000000, pugrp: 02, punit: 01, chunk: 0022, sectr: 0000}
+==> (a=2, b=1, c=23, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0201001700000000, pugrp: 02, punit: 01, chunk: 0023, sectr: 0000}
+==> (a=2, b=1, c=24, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0201001800000000, pugrp: 02, punit: 01, chunk: 0024, sectr: 0000}
+==> (a=2, b=1, c=25, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0201001900000000, pugrp: 02, punit: 01, chunk: 0025, sectr: 0000}
+==> (a=2, b=1, c=26, d=0)
+# nvm_cmd_erase: Input/output error
+# erase: Invalid argument
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0201001a00000000, pugrp: 02, punit: 01, chunk: 0026, sectr: 0000}
+nvm_ret: {result: {cdw0: 0x0, vio: {cs: 0x0}}, status: 0x2c1}
+==> (a=2, b=1, c=27, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0201001b00000000, pugrp: 02, punit: 01, chunk: 0027, sectr: 0000}
+==> (a=2, b=1, c=28, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0201001c00000000, pugrp: 02, punit: 01, chunk: 0028, sectr: 0000}
+==> (a=2, b=1, c=29, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0201001d00000000, pugrp: 02, punit: 01, chunk: 0029, sectr: 0000}
+==> (a=2, b=2, c=0, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0202000000000000, pugrp: 02, punit: 02, chunk: 0000, sectr: 0000}
+==> (a=2, b=2, c=1, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0202000100000000, pugrp: 02, punit: 02, chunk: 0001, sectr: 0000}
+==> (a=2, b=2, c=2, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0202000200000000, pugrp: 02, punit: 02, chunk: 0002, sectr: 0000}
+==> (a=2, b=2, c=3, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0202000300000000, pugrp: 02, punit: 02, chunk: 0003, sectr: 0000}
+==> (a=2, b=2, c=4, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0202000400000000, pugrp: 02, punit: 02, chunk: 0004, sectr: 0000}
+==> (a=2, b=2, c=5, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0202000500000000, pugrp: 02, punit: 02, chunk: 0005, sectr: 0000}
+==> (a=2, b=2, c=6, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0202000600000000, pugrp: 02, punit: 02, chunk: 0006, sectr: 0000}
+==> (a=2, b=2, c=7, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0202000700000000, pugrp: 02, punit: 02, chunk: 0007, sectr: 0000}
+==> (a=2, b=2, c=8, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0202000800000000, pugrp: 02, punit: 02, chunk: 0008, sectr: 0000}
+==> (a=2, b=2, c=9, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0202000900000000, pugrp: 02, punit: 02, chunk: 0009, sectr: 0000}
+==> (a=2, b=2, c=10, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0202000a00000000, pugrp: 02, punit: 02, chunk: 0010, sectr: 0000}
+==> (a=2, b=2, c=11, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0202000b00000000, pugrp: 02, punit: 02, chunk: 0011, sectr: 0000}
+==> (a=2, b=2, c=12, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0202000c00000000, pugrp: 02, punit: 02, chunk: 0012, sectr: 0000}
+==> (a=2, b=2, c=13, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0202000d00000000, pugrp: 02, punit: 02, chunk: 0013, sectr: 0000}
+==> (a=2, b=2, c=14, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0202000e00000000, pugrp: 02, punit: 02, chunk: 0014, sectr: 0000}
+==> (a=2, b=2, c=15, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0202000f00000000, pugrp: 02, punit: 02, chunk: 0015, sectr: 0000}
+==> (a=2, b=2, c=16, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0202001000000000, pugrp: 02, punit: 02, chunk: 0016, sectr: 0000}
+==> (a=2, b=2, c=17, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0202001100000000, pugrp: 02, punit: 02, chunk: 0017, sectr: 0000}
+==> (a=2, b=2, c=18, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0202001200000000, pugrp: 02, punit: 02, chunk: 0018, sectr: 0000}
+==> (a=2, b=2, c=19, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0202001300000000, pugrp: 02, punit: 02, chunk: 0019, sectr: 0000}
+==> (a=2, b=2, c=20, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0202001400000000, pugrp: 02, punit: 02, chunk: 0020, sectr: 0000}
+==> (a=2, b=2, c=21, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0202001500000000, pugrp: 02, punit: 02, chunk: 0021, sectr: 0000}
+==> (a=2, b=2, c=22, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0202001600000000, pugrp: 02, punit: 02, chunk: 0022, sectr: 0000}
+==> (a=2, b=2, c=23, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0202001700000000, pugrp: 02, punit: 02, chunk: 0023, sectr: 0000}
+==> (a=2, b=2, c=24, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0202001800000000, pugrp: 02, punit: 02, chunk: 0024, sectr: 0000}
+==> (a=2, b=2, c=25, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0202001900000000, pugrp: 02, punit: 02, chunk: 0025, sectr: 0000}
+==> (a=2, b=2, c=26, d=0)
+# nvm_cmd_erase: Input/output error
+# erase: Invalid argument
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0202001a00000000, pugrp: 02, punit: 02, chunk: 0026, sectr: 0000}
+nvm_ret: {result: {cdw0: 0x0, vio: {cs: 0x0}}, status: 0x2c1}
+==> (a=2, b=2, c=27, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0202001b00000000, pugrp: 02, punit: 02, chunk: 0027, sectr: 0000}
+==> (a=2, b=2, c=28, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0202001c00000000, pugrp: 02, punit: 02, chunk: 0028, sectr: 0000}
+==> (a=2, b=2, c=29, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0202001d00000000, pugrp: 02, punit: 02, chunk: 0029, sectr: 0000}
+==> (a=2, b=3, c=0, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0203000000000000, pugrp: 02, punit: 03, chunk: 0000, sectr: 0000}
+==> (a=2, b=3, c=1, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0203000100000000, pugrp: 02, punit: 03, chunk: 0001, sectr: 0000}
+==> (a=2, b=3, c=2, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0203000200000000, pugrp: 02, punit: 03, chunk: 0002, sectr: 0000}
+==> (a=2, b=3, c=3, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0203000300000000, pugrp: 02, punit: 03, chunk: 0003, sectr: 0000}
+==> (a=2, b=3, c=4, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0203000400000000, pugrp: 02, punit: 03, chunk: 0004, sectr: 0000}
+==> (a=2, b=3, c=5, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0203000500000000, pugrp: 02, punit: 03, chunk: 0005, sectr: 0000}
+==> (a=2, b=3, c=6, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0203000600000000, pugrp: 02, punit: 03, chunk: 0006, sectr: 0000}
+==> (a=2, b=3, c=7, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0203000700000000, pugrp: 02, punit: 03, chunk: 0007, sectr: 0000}
+==> (a=2, b=3, c=8, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0203000800000000, pugrp: 02, punit: 03, chunk: 0008, sectr: 0000}
+==> (a=2, b=3, c=9, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0203000900000000, pugrp: 02, punit: 03, chunk: 0009, sectr: 0000}
+==> (a=2, b=3, c=10, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0203000a00000000, pugrp: 02, punit: 03, chunk: 0010, sectr: 0000}
+==> (a=2, b=3, c=11, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0203000b00000000, pugrp: 02, punit: 03, chunk: 0011, sectr: 0000}
+==> (a=2, b=3, c=12, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0203000c00000000, pugrp: 02, punit: 03, chunk: 0012, sectr: 0000}
+==> (a=2, b=3, c=13, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0203000d00000000, pugrp: 02, punit: 03, chunk: 0013, sectr: 0000}
+==> (a=2, b=3, c=14, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0203000e00000000, pugrp: 02, punit: 03, chunk: 0014, sectr: 0000}
+==> (a=2, b=3, c=15, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0203000f00000000, pugrp: 02, punit: 03, chunk: 0015, sectr: 0000}
+==> (a=2, b=3, c=16, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0203001000000000, pugrp: 02, punit: 03, chunk: 0016, sectr: 0000}
+==> (a=2, b=3, c=17, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0203001100000000, pugrp: 02, punit: 03, chunk: 0017, sectr: 0000}
+==> (a=2, b=3, c=18, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0203001200000000, pugrp: 02, punit: 03, chunk: 0018, sectr: 0000}
+==> (a=2, b=3, c=19, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0203001300000000, pugrp: 02, punit: 03, chunk: 0019, sectr: 0000}
+==> (a=2, b=3, c=20, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0203001400000000, pugrp: 02, punit: 03, chunk: 0020, sectr: 0000}
+==> (a=2, b=3, c=21, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0203001500000000, pugrp: 02, punit: 03, chunk: 0021, sectr: 0000}
+==> (a=2, b=3, c=22, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0203001600000000, pugrp: 02, punit: 03, chunk: 0022, sectr: 0000}
+==> (a=2, b=3, c=23, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0203001700000000, pugrp: 02, punit: 03, chunk: 0023, sectr: 0000}
+==> (a=2, b=3, c=24, d=0)
+# nvm_cmd_erase: Input/output error
+# erase: Invalid argument
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0203001800000000, pugrp: 02, punit: 03, chunk: 0024, sectr: 0000}
+nvm_ret: {result: {cdw0: 0x0, vio: {cs: 0x0}}, status: 0x2c1}
+==> (a=2, b=3, c=25, d=0)
+# nvm_cmd_erase: Input/output error
+# erase: Invalid argument
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0203001900000000, pugrp: 02, punit: 03, chunk: 0025, sectr: 0000}
+nvm_ret: {result: {cdw0: 0x0, vio: {cs: 0x0}}, status: 0x2c1}
+==> (a=2, b=3, c=26, d=0)
+# nvm_cmd_erase: Input/output error
+# erase: Invalid argument
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0203001a00000000, pugrp: 02, punit: 03, chunk: 0026, sectr: 0000}
+nvm_ret: {result: {cdw0: 0x0, vio: {cs: 0x0}}, status: 0x2c1}
+==> (a=2, b=3, c=27, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0203001b00000000, pugrp: 02, punit: 03, chunk: 0027, sectr: 0000}
+==> (a=2, b=3, c=28, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0203001c00000000, pugrp: 02, punit: 03, chunk: 0028, sectr: 0000}
+==> (a=2, b=3, c=29, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0203001d00000000, pugrp: 02, punit: 03, chunk: 0029, sectr: 0000}
+==> (a=3, b=0, c=0, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0300000000000000, pugrp: 03, punit: 00, chunk: 0000, sectr: 0000}
+==> (a=3, b=0, c=1, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0300000100000000, pugrp: 03, punit: 00, chunk: 0001, sectr: 0000}
+==> (a=3, b=0, c=2, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0300000200000000, pugrp: 03, punit: 00, chunk: 0002, sectr: 0000}
+==> (a=3, b=0, c=3, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0300000300000000, pugrp: 03, punit: 00, chunk: 0003, sectr: 0000}
+==> (a=3, b=0, c=4, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0300000400000000, pugrp: 03, punit: 00, chunk: 0004, sectr: 0000}
+==> (a=3, b=0, c=5, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0300000500000000, pugrp: 03, punit: 00, chunk: 0005, sectr: 0000}
+==> (a=3, b=0, c=6, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0300000600000000, pugrp: 03, punit: 00, chunk: 0006, sectr: 0000}
+==> (a=3, b=0, c=7, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0300000700000000, pugrp: 03, punit: 00, chunk: 0007, sectr: 0000}
+==> (a=3, b=0, c=8, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0300000800000000, pugrp: 03, punit: 00, chunk: 0008, sectr: 0000}
+==> (a=3, b=0, c=9, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0300000900000000, pugrp: 03, punit: 00, chunk: 0009, sectr: 0000}
+==> (a=3, b=0, c=10, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0300000a00000000, pugrp: 03, punit: 00, chunk: 0010, sectr: 0000}
+==> (a=3, b=0, c=11, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0300000b00000000, pugrp: 03, punit: 00, chunk: 0011, sectr: 0000}
+==> (a=3, b=0, c=12, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0300000c00000000, pugrp: 03, punit: 00, chunk: 0012, sectr: 0000}
+==> (a=3, b=0, c=13, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0300000d00000000, pugrp: 03, punit: 00, chunk: 0013, sectr: 0000}
+==> (a=3, b=0, c=14, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0300000e00000000, pugrp: 03, punit: 00, chunk: 0014, sectr: 0000}
+==> (a=3, b=0, c=15, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0300000f00000000, pugrp: 03, punit: 00, chunk: 0015, sectr: 0000}
+==> (a=3, b=0, c=16, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0300001000000000, pugrp: 03, punit: 00, chunk: 0016, sectr: 0000}
+==> (a=3, b=0, c=17, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0300001100000000, pugrp: 03, punit: 00, chunk: 0017, sectr: 0000}
+==> (a=3, b=0, c=18, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0300001200000000, pugrp: 03, punit: 00, chunk: 0018, sectr: 0000}
+==> (a=3, b=0, c=19, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0300001300000000, pugrp: 03, punit: 00, chunk: 0019, sectr: 0000}
+==> (a=3, b=0, c=20, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0300001400000000, pugrp: 03, punit: 00, chunk: 0020, sectr: 0000}
+==> (a=3, b=0, c=21, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0300001500000000, pugrp: 03, punit: 00, chunk: 0021, sectr: 0000}
+==> (a=3, b=0, c=22, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0300001600000000, pugrp: 03, punit: 00, chunk: 0022, sectr: 0000}
+==> (a=3, b=0, c=23, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0300001700000000, pugrp: 03, punit: 00, chunk: 0023, sectr: 0000}
+==> (a=3, b=0, c=24, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0300001800000000, pugrp: 03, punit: 00, chunk: 0024, sectr: 0000}
+==> (a=3, b=0, c=25, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0300001900000000, pugrp: 03, punit: 00, chunk: 0025, sectr: 0000}
+==> (a=3, b=0, c=26, d=0)
+# nvm_cmd_erase: Input/output error
+# erase: Invalid argument
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0300001a00000000, pugrp: 03, punit: 00, chunk: 0026, sectr: 0000}
+nvm_ret: {result: {cdw0: 0x0, vio: {cs: 0x0}}, status: 0x2c1}
+==> (a=3, b=0, c=27, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0300001b00000000, pugrp: 03, punit: 00, chunk: 0027, sectr: 0000}
+==> (a=3, b=0, c=28, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0300001c00000000, pugrp: 03, punit: 00, chunk: 0028, sectr: 0000}
+==> (a=3, b=0, c=29, d=0)
+# nvm_cmd_erase: Input/output error
+# erase: Invalid argument
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0300001d00000000, pugrp: 03, punit: 00, chunk: 0029, sectr: 0000}
+nvm_ret: {result: {cdw0: 0x0, vio: {cs: 0x0}}, status: 0x2c1}
+==> (a=3, b=1, c=0, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0301000000000000, pugrp: 03, punit: 01, chunk: 0000, sectr: 0000}
+==> (a=3, b=1, c=1, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0301000100000000, pugrp: 03, punit: 01, chunk: 0001, sectr: 0000}
+==> (a=3, b=1, c=2, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0301000200000000, pugrp: 03, punit: 01, chunk: 0002, sectr: 0000}
+==> (a=3, b=1, c=3, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0301000300000000, pugrp: 03, punit: 01, chunk: 0003, sectr: 0000}
+==> (a=3, b=1, c=4, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0301000400000000, pugrp: 03, punit: 01, chunk: 0004, sectr: 0000}
+==> (a=3, b=1, c=5, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0301000500000000, pugrp: 03, punit: 01, chunk: 0005, sectr: 0000}
+==> (a=3, b=1, c=6, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0301000600000000, pugrp: 03, punit: 01, chunk: 0006, sectr: 0000}
+==> (a=3, b=1, c=7, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0301000700000000, pugrp: 03, punit: 01, chunk: 0007, sectr: 0000}
+==> (a=3, b=1, c=8, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0301000800000000, pugrp: 03, punit: 01, chunk: 0008, sectr: 0000}
+==> (a=3, b=1, c=9, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0301000900000000, pugrp: 03, punit: 01, chunk: 0009, sectr: 0000}
+==> (a=3, b=1, c=10, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0301000a00000000, pugrp: 03, punit: 01, chunk: 0010, sectr: 0000}
+==> (a=3, b=1, c=11, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0301000b00000000, pugrp: 03, punit: 01, chunk: 0011, sectr: 0000}
+==> (a=3, b=1, c=12, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0301000c00000000, pugrp: 03, punit: 01, chunk: 0012, sectr: 0000}
+==> (a=3, b=1, c=13, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0301000d00000000, pugrp: 03, punit: 01, chunk: 0013, sectr: 0000}
+==> (a=3, b=1, c=14, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0301000e00000000, pugrp: 03, punit: 01, chunk: 0014, sectr: 0000}
+==> (a=3, b=1, c=15, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0301000f00000000, pugrp: 03, punit: 01, chunk: 0015, sectr: 0000}
+==> (a=3, b=1, c=16, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0301001000000000, pugrp: 03, punit: 01, chunk: 0016, sectr: 0000}
+==> (a=3, b=1, c=17, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0301001100000000, pugrp: 03, punit: 01, chunk: 0017, sectr: 0000}
+==> (a=3, b=1, c=18, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0301001200000000, pugrp: 03, punit: 01, chunk: 0018, sectr: 0000}
+==> (a=3, b=1, c=19, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0301001300000000, pugrp: 03, punit: 01, chunk: 0019, sectr: 0000}
+==> (a=3, b=1, c=20, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0301001400000000, pugrp: 03, punit: 01, chunk: 0020, sectr: 0000}
+==> (a=3, b=1, c=21, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0301001500000000, pugrp: 03, punit: 01, chunk: 0021, sectr: 0000}
+==> (a=3, b=1, c=22, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0301001600000000, pugrp: 03, punit: 01, chunk: 0022, sectr: 0000}
+==> (a=3, b=1, c=23, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0301001700000000, pugrp: 03, punit: 01, chunk: 0023, sectr: 0000}
+==> (a=3, b=1, c=24, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0301001800000000, pugrp: 03, punit: 01, chunk: 0024, sectr: 0000}
+==> (a=3, b=1, c=25, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0301001900000000, pugrp: 03, punit: 01, chunk: 0025, sectr: 0000}
+==> (a=3, b=1, c=26, d=0)
+# nvm_cmd_erase: Input/output error
+# erase: Invalid argument
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0301001a00000000, pugrp: 03, punit: 01, chunk: 0026, sectr: 0000}
+nvm_ret: {result: {cdw0: 0x0, vio: {cs: 0x0}}, status: 0x2c1}
+==> (a=3, b=1, c=27, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0301001b00000000, pugrp: 03, punit: 01, chunk: 0027, sectr: 0000}
+==> (a=3, b=1, c=28, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0301001c00000000, pugrp: 03, punit: 01, chunk: 0028, sectr: 0000}
+==> (a=3, b=1, c=29, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0301001d00000000, pugrp: 03, punit: 01, chunk: 0029, sectr: 0000}
+==> (a=3, b=2, c=0, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0302000000000000, pugrp: 03, punit: 02, chunk: 0000, sectr: 0000}
+==> (a=3, b=2, c=1, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0302000100000000, pugrp: 03, punit: 02, chunk: 0001, sectr: 0000}
+==> (a=3, b=2, c=2, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0302000200000000, pugrp: 03, punit: 02, chunk: 0002, sectr: 0000}
+==> (a=3, b=2, c=3, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0302000300000000, pugrp: 03, punit: 02, chunk: 0003, sectr: 0000}
+==> (a=3, b=2, c=4, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0302000400000000, pugrp: 03, punit: 02, chunk: 0004, sectr: 0000}
+==> (a=3, b=2, c=5, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0302000500000000, pugrp: 03, punit: 02, chunk: 0005, sectr: 0000}
+==> (a=3, b=2, c=6, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0302000600000000, pugrp: 03, punit: 02, chunk: 0006, sectr: 0000}
+==> (a=3, b=2, c=7, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0302000700000000, pugrp: 03, punit: 02, chunk: 0007, sectr: 0000}
+==> (a=3, b=2, c=8, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0302000800000000, pugrp: 03, punit: 02, chunk: 0008, sectr: 0000}
+==> (a=3, b=2, c=9, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0302000900000000, pugrp: 03, punit: 02, chunk: 0009, sectr: 0000}
+==> (a=3, b=2, c=10, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0302000a00000000, pugrp: 03, punit: 02, chunk: 0010, sectr: 0000}
+==> (a=3, b=2, c=11, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0302000b00000000, pugrp: 03, punit: 02, chunk: 0011, sectr: 0000}
+==> (a=3, b=2, c=12, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0302000c00000000, pugrp: 03, punit: 02, chunk: 0012, sectr: 0000}
+==> (a=3, b=2, c=13, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0302000d00000000, pugrp: 03, punit: 02, chunk: 0013, sectr: 0000}
+==> (a=3, b=2, c=14, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0302000e00000000, pugrp: 03, punit: 02, chunk: 0014, sectr: 0000}
+==> (a=3, b=2, c=15, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0302000f00000000, pugrp: 03, punit: 02, chunk: 0015, sectr: 0000}
+==> (a=3, b=2, c=16, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0302001000000000, pugrp: 03, punit: 02, chunk: 0016, sectr: 0000}
+==> (a=3, b=2, c=17, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0302001100000000, pugrp: 03, punit: 02, chunk: 0017, sectr: 0000}
+==> (a=3, b=2, c=18, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0302001200000000, pugrp: 03, punit: 02, chunk: 0018, sectr: 0000}
+==> (a=3, b=2, c=19, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0302001300000000, pugrp: 03, punit: 02, chunk: 0019, sectr: 0000}
+==> (a=3, b=2, c=20, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0302001400000000, pugrp: 03, punit: 02, chunk: 0020, sectr: 0000}
+==> (a=3, b=2, c=21, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0302001500000000, pugrp: 03, punit: 02, chunk: 0021, sectr: 0000}
+==> (a=3, b=2, c=22, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0302001600000000, pugrp: 03, punit: 02, chunk: 0022, sectr: 0000}
+==> (a=3, b=2, c=23, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0302001700000000, pugrp: 03, punit: 02, chunk: 0023, sectr: 0000}
+==> (a=3, b=2, c=24, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0302001800000000, pugrp: 03, punit: 02, chunk: 0024, sectr: 0000}
+==> (a=3, b=2, c=25, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0302001900000000, pugrp: 03, punit: 02, chunk: 0025, sectr: 0000}
+==> (a=3, b=2, c=26, d=0)
+# nvm_cmd_erase: Input/output error
+# erase: Invalid argument
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0302001a00000000, pugrp: 03, punit: 02, chunk: 0026, sectr: 0000}
+nvm_ret: {result: {cdw0: 0x0, vio: {cs: 0x0}}, status: 0x2c1}
+==> (a=3, b=2, c=27, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0302001b00000000, pugrp: 03, punit: 02, chunk: 0027, sectr: 0000}
+==> (a=3, b=2, c=28, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0302001c00000000, pugrp: 03, punit: 02, chunk: 0028, sectr: 0000}
+==> (a=3, b=2, c=29, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0302001d00000000, pugrp: 03, punit: 02, chunk: 0029, sectr: 0000}
+==> (a=3, b=3, c=0, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0303000000000000, pugrp: 03, punit: 03, chunk: 0000, sectr: 0000}
+==> (a=3, b=3, c=1, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0303000100000000, pugrp: 03, punit: 03, chunk: 0001, sectr: 0000}
+==> (a=3, b=3, c=2, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0303000200000000, pugrp: 03, punit: 03, chunk: 0002, sectr: 0000}
+==> (a=3, b=3, c=3, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0303000300000000, pugrp: 03, punit: 03, chunk: 0003, sectr: 0000}
+==> (a=3, b=3, c=4, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0303000400000000, pugrp: 03, punit: 03, chunk: 0004, sectr: 0000}
+==> (a=3, b=3, c=5, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0303000500000000, pugrp: 03, punit: 03, chunk: 0005, sectr: 0000}
+==> (a=3, b=3, c=6, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0303000600000000, pugrp: 03, punit: 03, chunk: 0006, sectr: 0000}
+==> (a=3, b=3, c=7, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0303000700000000, pugrp: 03, punit: 03, chunk: 0007, sectr: 0000}
+==> (a=3, b=3, c=8, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0303000800000000, pugrp: 03, punit: 03, chunk: 0008, sectr: 0000}
+==> (a=3, b=3, c=9, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0303000900000000, pugrp: 03, punit: 03, chunk: 0009, sectr: 0000}
+==> (a=3, b=3, c=10, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0303000a00000000, pugrp: 03, punit: 03, chunk: 0010, sectr: 0000}
+==> (a=3, b=3, c=11, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0303000b00000000, pugrp: 03, punit: 03, chunk: 0011, sectr: 0000}
+==> (a=3, b=3, c=12, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0303000c00000000, pugrp: 03, punit: 03, chunk: 0012, sectr: 0000}
+==> (a=3, b=3, c=13, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0303000d00000000, pugrp: 03, punit: 03, chunk: 0013, sectr: 0000}
+==> (a=3, b=3, c=14, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0303000e00000000, pugrp: 03, punit: 03, chunk: 0014, sectr: 0000}
+==> (a=3, b=3, c=15, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0303000f00000000, pugrp: 03, punit: 03, chunk: 0015, sectr: 0000}
+==> (a=3, b=3, c=16, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0303001000000000, pugrp: 03, punit: 03, chunk: 0016, sectr: 0000}
+==> (a=3, b=3, c=17, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0303001100000000, pugrp: 03, punit: 03, chunk: 0017, sectr: 0000}
+==> (a=3, b=3, c=18, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0303001200000000, pugrp: 03, punit: 03, chunk: 0018, sectr: 0000}
+==> (a=3, b=3, c=19, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0303001300000000, pugrp: 03, punit: 03, chunk: 0019, sectr: 0000}
+==> (a=3, b=3, c=20, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0303001400000000, pugrp: 03, punit: 03, chunk: 0020, sectr: 0000}
+==> (a=3, b=3, c=21, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0303001500000000, pugrp: 03, punit: 03, chunk: 0021, sectr: 0000}
+==> (a=3, b=3, c=22, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0303001600000000, pugrp: 03, punit: 03, chunk: 0022, sectr: 0000}
+==> (a=3, b=3, c=23, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0303001700000000, pugrp: 03, punit: 03, chunk: 0023, sectr: 0000}
+==> (a=3, b=3, c=24, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0303001800000000, pugrp: 03, punit: 03, chunk: 0024, sectr: 0000}
+==> (a=3, b=3, c=25, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0303001900000000, pugrp: 03, punit: 03, chunk: 0025, sectr: 0000}
+==> (a=3, b=3, c=26, d=0)
+# nvm_cmd_erase: Input/output error
+# erase: Invalid argument
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0303001a00000000, pugrp: 03, punit: 03, chunk: 0026, sectr: 0000}
+nvm_ret: {result: {cdw0: 0x0, vio: {cs: 0x0}}, status: 0x2c1}
+==> (a=3, b=3, c=27, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0303001b00000000, pugrp: 03, punit: 03, chunk: 0027, sectr: 0000}
+==> (a=3, b=3, c=28, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0303001c00000000, pugrp: 03, punit: 03, chunk: 0028, sectr: 0000}
+==> (a=3, b=3, c=29, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0303001d00000000, pugrp: 03, punit: 03, chunk: 0029, sectr: 0000}
+==> (a=4, b=0, c=0, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0400000000000000, pugrp: 04, punit: 00, chunk: 0000, sectr: 0000}
+==> (a=4, b=0, c=1, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0400000100000000, pugrp: 04, punit: 00, chunk: 0001, sectr: 0000}
+==> (a=4, b=0, c=2, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0400000200000000, pugrp: 04, punit: 00, chunk: 0002, sectr: 0000}
+==> (a=4, b=0, c=3, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0400000300000000, pugrp: 04, punit: 00, chunk: 0003, sectr: 0000}
+==> (a=4, b=0, c=4, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0400000400000000, pugrp: 04, punit: 00, chunk: 0004, sectr: 0000}
+==> (a=4, b=0, c=5, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0400000500000000, pugrp: 04, punit: 00, chunk: 0005, sectr: 0000}
+==> (a=4, b=0, c=6, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0400000600000000, pugrp: 04, punit: 00, chunk: 0006, sectr: 0000}
+==> (a=4, b=0, c=7, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0400000700000000, pugrp: 04, punit: 00, chunk: 0007, sectr: 0000}
+==> (a=4, b=0, c=8, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0400000800000000, pugrp: 04, punit: 00, chunk: 0008, sectr: 0000}
+==> (a=4, b=0, c=9, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0400000900000000, pugrp: 04, punit: 00, chunk: 0009, sectr: 0000}
+==> (a=4, b=0, c=10, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0400000a00000000, pugrp: 04, punit: 00, chunk: 0010, sectr: 0000}
+==> (a=4, b=0, c=11, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0400000b00000000, pugrp: 04, punit: 00, chunk: 0011, sectr: 0000}
+==> (a=4, b=0, c=12, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0400000c00000000, pugrp: 04, punit: 00, chunk: 0012, sectr: 0000}
+==> (a=4, b=0, c=13, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0400000d00000000, pugrp: 04, punit: 00, chunk: 0013, sectr: 0000}
+==> (a=4, b=0, c=14, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0400000e00000000, pugrp: 04, punit: 00, chunk: 0014, sectr: 0000}
+==> (a=4, b=0, c=15, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0400000f00000000, pugrp: 04, punit: 00, chunk: 0015, sectr: 0000}
+==> (a=4, b=0, c=16, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0400001000000000, pugrp: 04, punit: 00, chunk: 0016, sectr: 0000}
+==> (a=4, b=0, c=17, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0400001100000000, pugrp: 04, punit: 00, chunk: 0017, sectr: 0000}
+==> (a=4, b=0, c=18, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0400001200000000, pugrp: 04, punit: 00, chunk: 0018, sectr: 0000}
+==> (a=4, b=0, c=19, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0400001300000000, pugrp: 04, punit: 00, chunk: 0019, sectr: 0000}
+==> (a=4, b=0, c=20, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0400001400000000, pugrp: 04, punit: 00, chunk: 0020, sectr: 0000}
+==> (a=4, b=0, c=21, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0400001500000000, pugrp: 04, punit: 00, chunk: 0021, sectr: 0000}
+==> (a=4, b=0, c=22, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0400001600000000, pugrp: 04, punit: 00, chunk: 0022, sectr: 0000}
+==> (a=4, b=0, c=23, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0400001700000000, pugrp: 04, punit: 00, chunk: 0023, sectr: 0000}
+==> (a=4, b=0, c=24, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0400001800000000, pugrp: 04, punit: 00, chunk: 0024, sectr: 0000}
+==> (a=4, b=0, c=25, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0400001900000000, pugrp: 04, punit: 00, chunk: 0025, sectr: 0000}
+==> (a=4, b=0, c=26, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0400001a00000000, pugrp: 04, punit: 00, chunk: 0026, sectr: 0000}
+==> (a=4, b=0, c=27, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0400001b00000000, pugrp: 04, punit: 00, chunk: 0027, sectr: 0000}
+==> (a=4, b=0, c=28, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0400001c00000000, pugrp: 04, punit: 00, chunk: 0028, sectr: 0000}
+==> (a=4, b=0, c=29, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0400001d00000000, pugrp: 04, punit: 00, chunk: 0029, sectr: 0000}
+==> (a=4, b=1, c=0, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0401000000000000, pugrp: 04, punit: 01, chunk: 0000, sectr: 0000}
+==> (a=4, b=1, c=1, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0401000100000000, pugrp: 04, punit: 01, chunk: 0001, sectr: 0000}
+==> (a=4, b=1, c=2, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0401000200000000, pugrp: 04, punit: 01, chunk: 0002, sectr: 0000}
+==> (a=4, b=1, c=3, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0401000300000000, pugrp: 04, punit: 01, chunk: 0003, sectr: 0000}
+==> (a=4, b=1, c=4, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0401000400000000, pugrp: 04, punit: 01, chunk: 0004, sectr: 0000}
+==> (a=4, b=1, c=5, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0401000500000000, pugrp: 04, punit: 01, chunk: 0005, sectr: 0000}
+==> (a=4, b=1, c=6, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0401000600000000, pugrp: 04, punit: 01, chunk: 0006, sectr: 0000}
+==> (a=4, b=1, c=7, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0401000700000000, pugrp: 04, punit: 01, chunk: 0007, sectr: 0000}
+==> (a=4, b=1, c=8, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0401000800000000, pugrp: 04, punit: 01, chunk: 0008, sectr: 0000}
+==> (a=4, b=1, c=9, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0401000900000000, pugrp: 04, punit: 01, chunk: 0009, sectr: 0000}
+==> (a=4, b=1, c=10, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0401000a00000000, pugrp: 04, punit: 01, chunk: 0010, sectr: 0000}
+==> (a=4, b=1, c=11, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0401000b00000000, pugrp: 04, punit: 01, chunk: 0011, sectr: 0000}
+==> (a=4, b=1, c=12, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0401000c00000000, pugrp: 04, punit: 01, chunk: 0012, sectr: 0000}
+==> (a=4, b=1, c=13, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0401000d00000000, pugrp: 04, punit: 01, chunk: 0013, sectr: 0000}
+==> (a=4, b=1, c=14, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0401000e00000000, pugrp: 04, punit: 01, chunk: 0014, sectr: 0000}
+==> (a=4, b=1, c=15, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0401000f00000000, pugrp: 04, punit: 01, chunk: 0015, sectr: 0000}
+==> (a=4, b=1, c=16, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0401001000000000, pugrp: 04, punit: 01, chunk: 0016, sectr: 0000}
+==> (a=4, b=1, c=17, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0401001100000000, pugrp: 04, punit: 01, chunk: 0017, sectr: 0000}
+==> (a=4, b=1, c=18, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0401001200000000, pugrp: 04, punit: 01, chunk: 0018, sectr: 0000}
+==> (a=4, b=1, c=19, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0401001300000000, pugrp: 04, punit: 01, chunk: 0019, sectr: 0000}
+==> (a=4, b=1, c=20, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0401001400000000, pugrp: 04, punit: 01, chunk: 0020, sectr: 0000}
+==> (a=4, b=1, c=21, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0401001500000000, pugrp: 04, punit: 01, chunk: 0021, sectr: 0000}
+==> (a=4, b=1, c=22, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0401001600000000, pugrp: 04, punit: 01, chunk: 0022, sectr: 0000}
+==> (a=4, b=1, c=23, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0401001700000000, pugrp: 04, punit: 01, chunk: 0023, sectr: 0000}
+==> (a=4, b=1, c=24, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0401001800000000, pugrp: 04, punit: 01, chunk: 0024, sectr: 0000}
+==> (a=4, b=1, c=25, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0401001900000000, pugrp: 04, punit: 01, chunk: 0025, sectr: 0000}
+==> (a=4, b=1, c=26, d=0)
+# nvm_cmd_erase: Input/output error
+# erase: Invalid argument
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0401001a00000000, pugrp: 04, punit: 01, chunk: 0026, sectr: 0000}
+nvm_ret: {result: {cdw0: 0x0, vio: {cs: 0x0}}, status: 0x2c1}
+==> (a=4, b=1, c=27, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0401001b00000000, pugrp: 04, punit: 01, chunk: 0027, sectr: 0000}
+==> (a=4, b=1, c=28, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0401001c00000000, pugrp: 04, punit: 01, chunk: 0028, sectr: 0000}
+==> (a=4, b=1, c=29, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0401001d00000000, pugrp: 04, punit: 01, chunk: 0029, sectr: 0000}
+==> (a=4, b=2, c=0, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0402000000000000, pugrp: 04, punit: 02, chunk: 0000, sectr: 0000}
+==> (a=4, b=2, c=1, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0402000100000000, pugrp: 04, punit: 02, chunk: 0001, sectr: 0000}
+==> (a=4, b=2, c=2, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0402000200000000, pugrp: 04, punit: 02, chunk: 0002, sectr: 0000}
+==> (a=4, b=2, c=3, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0402000300000000, pugrp: 04, punit: 02, chunk: 0003, sectr: 0000}
+==> (a=4, b=2, c=4, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0402000400000000, pugrp: 04, punit: 02, chunk: 0004, sectr: 0000}
+==> (a=4, b=2, c=5, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0402000500000000, pugrp: 04, punit: 02, chunk: 0005, sectr: 0000}
+==> (a=4, b=2, c=6, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0402000600000000, pugrp: 04, punit: 02, chunk: 0006, sectr: 0000}
+==> (a=4, b=2, c=7, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0402000700000000, pugrp: 04, punit: 02, chunk: 0007, sectr: 0000}
+==> (a=4, b=2, c=8, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0402000800000000, pugrp: 04, punit: 02, chunk: 0008, sectr: 0000}
+==> (a=4, b=2, c=9, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0402000900000000, pugrp: 04, punit: 02, chunk: 0009, sectr: 0000}
+==> (a=4, b=2, c=10, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0402000a00000000, pugrp: 04, punit: 02, chunk: 0010, sectr: 0000}
+==> (a=4, b=2, c=11, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0402000b00000000, pugrp: 04, punit: 02, chunk: 0011, sectr: 0000}
+==> (a=4, b=2, c=12, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0402000c00000000, pugrp: 04, punit: 02, chunk: 0012, sectr: 0000}
+==> (a=4, b=2, c=13, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0402000d00000000, pugrp: 04, punit: 02, chunk: 0013, sectr: 0000}
+==> (a=4, b=2, c=14, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0402000e00000000, pugrp: 04, punit: 02, chunk: 0014, sectr: 0000}
+==> (a=4, b=2, c=15, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0402000f00000000, pugrp: 04, punit: 02, chunk: 0015, sectr: 0000}
+==> (a=4, b=2, c=16, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0402001000000000, pugrp: 04, punit: 02, chunk: 0016, sectr: 0000}
+==> (a=4, b=2, c=17, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0402001100000000, pugrp: 04, punit: 02, chunk: 0017, sectr: 0000}
+==> (a=4, b=2, c=18, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0402001200000000, pugrp: 04, punit: 02, chunk: 0018, sectr: 0000}
+==> (a=4, b=2, c=19, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0402001300000000, pugrp: 04, punit: 02, chunk: 0019, sectr: 0000}
+==> (a=4, b=2, c=20, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0402001400000000, pugrp: 04, punit: 02, chunk: 0020, sectr: 0000}
+==> (a=4, b=2, c=21, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0402001500000000, pugrp: 04, punit: 02, chunk: 0021, sectr: 0000}
+==> (a=4, b=2, c=22, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0402001600000000, pugrp: 04, punit: 02, chunk: 0022, sectr: 0000}
+==> (a=4, b=2, c=23, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0402001700000000, pugrp: 04, punit: 02, chunk: 0023, sectr: 0000}
+==> (a=4, b=2, c=24, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0402001800000000, pugrp: 04, punit: 02, chunk: 0024, sectr: 0000}
+==> (a=4, b=2, c=25, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0402001900000000, pugrp: 04, punit: 02, chunk: 0025, sectr: 0000}
+==> (a=4, b=2, c=26, d=0)
+# nvm_cmd_erase: Input/output error
+# erase: Invalid argument
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0402001a00000000, pugrp: 04, punit: 02, chunk: 0026, sectr: 0000}
+nvm_ret: {result: {cdw0: 0x0, vio: {cs: 0x0}}, status: 0x2c1}
+==> (a=4, b=2, c=27, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0402001b00000000, pugrp: 04, punit: 02, chunk: 0027, sectr: 0000}
+==> (a=4, b=2, c=28, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0402001c00000000, pugrp: 04, punit: 02, chunk: 0028, sectr: 0000}
+==> (a=4, b=2, c=29, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0402001d00000000, pugrp: 04, punit: 02, chunk: 0029, sectr: 0000}
+==> (a=4, b=3, c=0, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0403000000000000, pugrp: 04, punit: 03, chunk: 0000, sectr: 0000}
+==> (a=4, b=3, c=1, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0403000100000000, pugrp: 04, punit: 03, chunk: 0001, sectr: 0000}
+==> (a=4, b=3, c=2, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0403000200000000, pugrp: 04, punit: 03, chunk: 0002, sectr: 0000}
+==> (a=4, b=3, c=3, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0403000300000000, pugrp: 04, punit: 03, chunk: 0003, sectr: 0000}
+==> (a=4, b=3, c=4, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0403000400000000, pugrp: 04, punit: 03, chunk: 0004, sectr: 0000}
+==> (a=4, b=3, c=5, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0403000500000000, pugrp: 04, punit: 03, chunk: 0005, sectr: 0000}
+==> (a=4, b=3, c=6, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0403000600000000, pugrp: 04, punit: 03, chunk: 0006, sectr: 0000}
+==> (a=4, b=3, c=7, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0403000700000000, pugrp: 04, punit: 03, chunk: 0007, sectr: 0000}
+==> (a=4, b=3, c=8, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0403000800000000, pugrp: 04, punit: 03, chunk: 0008, sectr: 0000}
+==> (a=4, b=3, c=9, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0403000900000000, pugrp: 04, punit: 03, chunk: 0009, sectr: 0000}
+==> (a=4, b=3, c=10, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0403000a00000000, pugrp: 04, punit: 03, chunk: 0010, sectr: 0000}
+==> (a=4, b=3, c=11, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0403000b00000000, pugrp: 04, punit: 03, chunk: 0011, sectr: 0000}
+==> (a=4, b=3, c=12, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0403000c00000000, pugrp: 04, punit: 03, chunk: 0012, sectr: 0000}
+==> (a=4, b=3, c=13, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0403000d00000000, pugrp: 04, punit: 03, chunk: 0013, sectr: 0000}
+==> (a=4, b=3, c=14, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0403000e00000000, pugrp: 04, punit: 03, chunk: 0014, sectr: 0000}
+==> (a=4, b=3, c=15, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0403000f00000000, pugrp: 04, punit: 03, chunk: 0015, sectr: 0000}
+==> (a=4, b=3, c=16, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0403001000000000, pugrp: 04, punit: 03, chunk: 0016, sectr: 0000}
+==> (a=4, b=3, c=17, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0403001100000000, pugrp: 04, punit: 03, chunk: 0017, sectr: 0000}
+==> (a=4, b=3, c=18, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0403001200000000, pugrp: 04, punit: 03, chunk: 0018, sectr: 0000}
+==> (a=4, b=3, c=19, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0403001300000000, pugrp: 04, punit: 03, chunk: 0019, sectr: 0000}
+==> (a=4, b=3, c=20, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0403001400000000, pugrp: 04, punit: 03, chunk: 0020, sectr: 0000}
+==> (a=4, b=3, c=21, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0403001500000000, pugrp: 04, punit: 03, chunk: 0021, sectr: 0000}
+==> (a=4, b=3, c=22, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0403001600000000, pugrp: 04, punit: 03, chunk: 0022, sectr: 0000}
+==> (a=4, b=3, c=23, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0403001700000000, pugrp: 04, punit: 03, chunk: 0023, sectr: 0000}
+==> (a=4, b=3, c=24, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0403001800000000, pugrp: 04, punit: 03, chunk: 0024, sectr: 0000}
+==> (a=4, b=3, c=25, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0403001900000000, pugrp: 04, punit: 03, chunk: 0025, sectr: 0000}
+==> (a=4, b=3, c=26, d=0)
+# nvm_cmd_erase: Input/output error
+# erase: Invalid argument
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0403001a00000000, pugrp: 04, punit: 03, chunk: 0026, sectr: 0000}
+nvm_ret: {result: {cdw0: 0x0, vio: {cs: 0x0}}, status: 0x2c1}
+==> (a=4, b=3, c=27, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0403001b00000000, pugrp: 04, punit: 03, chunk: 0027, sectr: 0000}
+==> (a=4, b=3, c=28, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0403001c00000000, pugrp: 04, punit: 03, chunk: 0028, sectr: 0000}
+==> (a=4, b=3, c=29, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0403001d00000000, pugrp: 04, punit: 03, chunk: 0029, sectr: 0000}
+==> (a=5, b=0, c=0, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0500000000000000, pugrp: 05, punit: 00, chunk: 0000, sectr: 0000}
+==> (a=5, b=0, c=1, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0500000100000000, pugrp: 05, punit: 00, chunk: 0001, sectr: 0000}
+==> (a=5, b=0, c=2, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0500000200000000, pugrp: 05, punit: 00, chunk: 0002, sectr: 0000}
+==> (a=5, b=0, c=3, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0500000300000000, pugrp: 05, punit: 00, chunk: 0003, sectr: 0000}
+==> (a=5, b=0, c=4, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0500000400000000, pugrp: 05, punit: 00, chunk: 0004, sectr: 0000}
+==> (a=5, b=0, c=5, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0500000500000000, pugrp: 05, punit: 00, chunk: 0005, sectr: 0000}
+==> (a=5, b=0, c=6, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0500000600000000, pugrp: 05, punit: 00, chunk: 0006, sectr: 0000}
+==> (a=5, b=0, c=7, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0500000700000000, pugrp: 05, punit: 00, chunk: 0007, sectr: 0000}
+==> (a=5, b=0, c=8, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0500000800000000, pugrp: 05, punit: 00, chunk: 0008, sectr: 0000}
+==> (a=5, b=0, c=9, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0500000900000000, pugrp: 05, punit: 00, chunk: 0009, sectr: 0000}
+==> (a=5, b=0, c=10, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0500000a00000000, pugrp: 05, punit: 00, chunk: 0010, sectr: 0000}
+==> (a=5, b=0, c=11, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0500000b00000000, pugrp: 05, punit: 00, chunk: 0011, sectr: 0000}
+==> (a=5, b=0, c=12, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0500000c00000000, pugrp: 05, punit: 00, chunk: 0012, sectr: 0000}
+==> (a=5, b=0, c=13, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0500000d00000000, pugrp: 05, punit: 00, chunk: 0013, sectr: 0000}
+==> (a=5, b=0, c=14, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0500000e00000000, pugrp: 05, punit: 00, chunk: 0014, sectr: 0000}
+==> (a=5, b=0, c=15, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0500000f00000000, pugrp: 05, punit: 00, chunk: 0015, sectr: 0000}
+==> (a=5, b=0, c=16, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0500001000000000, pugrp: 05, punit: 00, chunk: 0016, sectr: 0000}
+==> (a=5, b=0, c=17, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0500001100000000, pugrp: 05, punit: 00, chunk: 0017, sectr: 0000}
+==> (a=5, b=0, c=18, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0500001200000000, pugrp: 05, punit: 00, chunk: 0018, sectr: 0000}
+==> (a=5, b=0, c=19, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0500001300000000, pugrp: 05, punit: 00, chunk: 0019, sectr: 0000}
+==> (a=5, b=0, c=20, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0500001400000000, pugrp: 05, punit: 00, chunk: 0020, sectr: 0000}
+==> (a=5, b=0, c=21, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0500001500000000, pugrp: 05, punit: 00, chunk: 0021, sectr: 0000}
+==> (a=5, b=0, c=22, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0500001600000000, pugrp: 05, punit: 00, chunk: 0022, sectr: 0000}
+==> (a=5, b=0, c=23, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0500001700000000, pugrp: 05, punit: 00, chunk: 0023, sectr: 0000}
+==> (a=5, b=0, c=24, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0500001800000000, pugrp: 05, punit: 00, chunk: 0024, sectr: 0000}
+==> (a=5, b=0, c=25, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0500001900000000, pugrp: 05, punit: 00, chunk: 0025, sectr: 0000}
+==> (a=5, b=0, c=26, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0500001a00000000, pugrp: 05, punit: 00, chunk: 0026, sectr: 0000}
+==> (a=5, b=0, c=27, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0500001b00000000, pugrp: 05, punit: 00, chunk: 0027, sectr: 0000}
+==> (a=5, b=0, c=28, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0500001c00000000, pugrp: 05, punit: 00, chunk: 0028, sectr: 0000}
+==> (a=5, b=0, c=29, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0500001d00000000, pugrp: 05, punit: 00, chunk: 0029, sectr: 0000}
+==> (a=5, b=1, c=0, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0501000000000000, pugrp: 05, punit: 01, chunk: 0000, sectr: 0000}
+==> (a=5, b=1, c=1, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0501000100000000, pugrp: 05, punit: 01, chunk: 0001, sectr: 0000}
+==> (a=5, b=1, c=2, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0501000200000000, pugrp: 05, punit: 01, chunk: 0002, sectr: 0000}
+==> (a=5, b=1, c=3, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0501000300000000, pugrp: 05, punit: 01, chunk: 0003, sectr: 0000}
+==> (a=5, b=1, c=4, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0501000400000000, pugrp: 05, punit: 01, chunk: 0004, sectr: 0000}
+==> (a=5, b=1, c=5, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0501000500000000, pugrp: 05, punit: 01, chunk: 0005, sectr: 0000}
+==> (a=5, b=1, c=6, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0501000600000000, pugrp: 05, punit: 01, chunk: 0006, sectr: 0000}
+==> (a=5, b=1, c=7, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0501000700000000, pugrp: 05, punit: 01, chunk: 0007, sectr: 0000}
+==> (a=5, b=1, c=8, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0501000800000000, pugrp: 05, punit: 01, chunk: 0008, sectr: 0000}
+==> (a=5, b=1, c=9, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0501000900000000, pugrp: 05, punit: 01, chunk: 0009, sectr: 0000}
+==> (a=5, b=1, c=10, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0501000a00000000, pugrp: 05, punit: 01, chunk: 0010, sectr: 0000}
+==> (a=5, b=1, c=11, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0501000b00000000, pugrp: 05, punit: 01, chunk: 0011, sectr: 0000}
+==> (a=5, b=1, c=12, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0501000c00000000, pugrp: 05, punit: 01, chunk: 0012, sectr: 0000}
+==> (a=5, b=1, c=13, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0501000d00000000, pugrp: 05, punit: 01, chunk: 0013, sectr: 0000}
+==> (a=5, b=1, c=14, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0501000e00000000, pugrp: 05, punit: 01, chunk: 0014, sectr: 0000}
+==> (a=5, b=1, c=15, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0501000f00000000, pugrp: 05, punit: 01, chunk: 0015, sectr: 0000}
+==> (a=5, b=1, c=16, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0501001000000000, pugrp: 05, punit: 01, chunk: 0016, sectr: 0000}
+==> (a=5, b=1, c=17, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0501001100000000, pugrp: 05, punit: 01, chunk: 0017, sectr: 0000}
+==> (a=5, b=1, c=18, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0501001200000000, pugrp: 05, punit: 01, chunk: 0018, sectr: 0000}
+==> (a=5, b=1, c=19, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0501001300000000, pugrp: 05, punit: 01, chunk: 0019, sectr: 0000}
+==> (a=5, b=1, c=20, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0501001400000000, pugrp: 05, punit: 01, chunk: 0020, sectr: 0000}
+==> (a=5, b=1, c=21, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0501001500000000, pugrp: 05, punit: 01, chunk: 0021, sectr: 0000}
+==> (a=5, b=1, c=22, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0501001600000000, pugrp: 05, punit: 01, chunk: 0022, sectr: 0000}
+==> (a=5, b=1, c=23, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0501001700000000, pugrp: 05, punit: 01, chunk: 0023, sectr: 0000}
+==> (a=5, b=1, c=24, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0501001800000000, pugrp: 05, punit: 01, chunk: 0024, sectr: 0000}
+==> (a=5, b=1, c=25, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0501001900000000, pugrp: 05, punit: 01, chunk: 0025, sectr: 0000}
+==> (a=5, b=1, c=26, d=0)
+# nvm_cmd_erase: Input/output error
+# erase: Invalid argument
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0501001a00000000, pugrp: 05, punit: 01, chunk: 0026, sectr: 0000}
+nvm_ret: {result: {cdw0: 0x0, vio: {cs: 0x0}}, status: 0x2c1}
+==> (a=5, b=1, c=27, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0501001b00000000, pugrp: 05, punit: 01, chunk: 0027, sectr: 0000}
+==> (a=5, b=1, c=28, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0501001c00000000, pugrp: 05, punit: 01, chunk: 0028, sectr: 0000}
+==> (a=5, b=1, c=29, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0501001d00000000, pugrp: 05, punit: 01, chunk: 0029, sectr: 0000}
+==> (a=5, b=2, c=0, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0502000000000000, pugrp: 05, punit: 02, chunk: 0000, sectr: 0000}
+==> (a=5, b=2, c=1, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0502000100000000, pugrp: 05, punit: 02, chunk: 0001, sectr: 0000}
+==> (a=5, b=2, c=2, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0502000200000000, pugrp: 05, punit: 02, chunk: 0002, sectr: 0000}
+==> (a=5, b=2, c=3, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0502000300000000, pugrp: 05, punit: 02, chunk: 0003, sectr: 0000}
+==> (a=5, b=2, c=4, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0502000400000000, pugrp: 05, punit: 02, chunk: 0004, sectr: 0000}
+==> (a=5, b=2, c=5, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0502000500000000, pugrp: 05, punit: 02, chunk: 0005, sectr: 0000}
+==> (a=5, b=2, c=6, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0502000600000000, pugrp: 05, punit: 02, chunk: 0006, sectr: 0000}
+==> (a=5, b=2, c=7, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0502000700000000, pugrp: 05, punit: 02, chunk: 0007, sectr: 0000}
+==> (a=5, b=2, c=8, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0502000800000000, pugrp: 05, punit: 02, chunk: 0008, sectr: 0000}
+==> (a=5, b=2, c=9, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0502000900000000, pugrp: 05, punit: 02, chunk: 0009, sectr: 0000}
+==> (a=5, b=2, c=10, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0502000a00000000, pugrp: 05, punit: 02, chunk: 0010, sectr: 0000}
+==> (a=5, b=2, c=11, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0502000b00000000, pugrp: 05, punit: 02, chunk: 0011, sectr: 0000}
+==> (a=5, b=2, c=12, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0502000c00000000, pugrp: 05, punit: 02, chunk: 0012, sectr: 0000}
+==> (a=5, b=2, c=13, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0502000d00000000, pugrp: 05, punit: 02, chunk: 0013, sectr: 0000}
+==> (a=5, b=2, c=14, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0502000e00000000, pugrp: 05, punit: 02, chunk: 0014, sectr: 0000}
+==> (a=5, b=2, c=15, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0502000f00000000, pugrp: 05, punit: 02, chunk: 0015, sectr: 0000}
+==> (a=5, b=2, c=16, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0502001000000000, pugrp: 05, punit: 02, chunk: 0016, sectr: 0000}
+==> (a=5, b=2, c=17, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0502001100000000, pugrp: 05, punit: 02, chunk: 0017, sectr: 0000}
+==> (a=5, b=2, c=18, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0502001200000000, pugrp: 05, punit: 02, chunk: 0018, sectr: 0000}
+==> (a=5, b=2, c=19, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0502001300000000, pugrp: 05, punit: 02, chunk: 0019, sectr: 0000}
+==> (a=5, b=2, c=20, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0502001400000000, pugrp: 05, punit: 02, chunk: 0020, sectr: 0000}
+==> (a=5, b=2, c=21, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0502001500000000, pugrp: 05, punit: 02, chunk: 0021, sectr: 0000}
+==> (a=5, b=2, c=22, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0502001600000000, pugrp: 05, punit: 02, chunk: 0022, sectr: 0000}
+==> (a=5, b=2, c=23, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0502001700000000, pugrp: 05, punit: 02, chunk: 0023, sectr: 0000}
+==> (a=5, b=2, c=24, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0502001800000000, pugrp: 05, punit: 02, chunk: 0024, sectr: 0000}
+==> (a=5, b=2, c=25, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0502001900000000, pugrp: 05, punit: 02, chunk: 0025, sectr: 0000}
+==> (a=5, b=2, c=26, d=0)
+# nvm_cmd_erase: Input/output error
+# erase: Invalid argument
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0502001a00000000, pugrp: 05, punit: 02, chunk: 0026, sectr: 0000}
+nvm_ret: {result: {cdw0: 0x0, vio: {cs: 0x0}}, status: 0x2c1}
+==> (a=5, b=2, c=27, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0502001b00000000, pugrp: 05, punit: 02, chunk: 0027, sectr: 0000}
+==> (a=5, b=2, c=28, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0502001c00000000, pugrp: 05, punit: 02, chunk: 0028, sectr: 0000}
+==> (a=5, b=2, c=29, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0502001d00000000, pugrp: 05, punit: 02, chunk: 0029, sectr: 0000}
+==> (a=5, b=3, c=0, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0503000000000000, pugrp: 05, punit: 03, chunk: 0000, sectr: 0000}
+==> (a=5, b=3, c=1, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0503000100000000, pugrp: 05, punit: 03, chunk: 0001, sectr: 0000}
+==> (a=5, b=3, c=2, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0503000200000000, pugrp: 05, punit: 03, chunk: 0002, sectr: 0000}
+==> (a=5, b=3, c=3, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0503000300000000, pugrp: 05, punit: 03, chunk: 0003, sectr: 0000}
+==> (a=5, b=3, c=4, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0503000400000000, pugrp: 05, punit: 03, chunk: 0004, sectr: 0000}
+==> (a=5, b=3, c=5, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0503000500000000, pugrp: 05, punit: 03, chunk: 0005, sectr: 0000}
+==> (a=5, b=3, c=6, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0503000600000000, pugrp: 05, punit: 03, chunk: 0006, sectr: 0000}
+==> (a=5, b=3, c=7, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0503000700000000, pugrp: 05, punit: 03, chunk: 0007, sectr: 0000}
+==> (a=5, b=3, c=8, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0503000800000000, pugrp: 05, punit: 03, chunk: 0008, sectr: 0000}
+==> (a=5, b=3, c=9, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0503000900000000, pugrp: 05, punit: 03, chunk: 0009, sectr: 0000}
+==> (a=5, b=3, c=10, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0503000a00000000, pugrp: 05, punit: 03, chunk: 0010, sectr: 0000}
+==> (a=5, b=3, c=11, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0503000b00000000, pugrp: 05, punit: 03, chunk: 0011, sectr: 0000}
+==> (a=5, b=3, c=12, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0503000c00000000, pugrp: 05, punit: 03, chunk: 0012, sectr: 0000}
+==> (a=5, b=3, c=13, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0503000d00000000, pugrp: 05, punit: 03, chunk: 0013, sectr: 0000}
+==> (a=5, b=3, c=14, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0503000e00000000, pugrp: 05, punit: 03, chunk: 0014, sectr: 0000}
+==> (a=5, b=3, c=15, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0503000f00000000, pugrp: 05, punit: 03, chunk: 0015, sectr: 0000}
+==> (a=5, b=3, c=16, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0503001000000000, pugrp: 05, punit: 03, chunk: 0016, sectr: 0000}
+==> (a=5, b=3, c=17, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0503001100000000, pugrp: 05, punit: 03, chunk: 0017, sectr: 0000}
+==> (a=5, b=3, c=18, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0503001200000000, pugrp: 05, punit: 03, chunk: 0018, sectr: 0000}
+==> (a=5, b=3, c=19, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0503001300000000, pugrp: 05, punit: 03, chunk: 0019, sectr: 0000}
+==> (a=5, b=3, c=20, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0503001400000000, pugrp: 05, punit: 03, chunk: 0020, sectr: 0000}
+==> (a=5, b=3, c=21, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0503001500000000, pugrp: 05, punit: 03, chunk: 0021, sectr: 0000}
+==> (a=5, b=3, c=22, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0503001600000000, pugrp: 05, punit: 03, chunk: 0022, sectr: 0000}
+==> (a=5, b=3, c=23, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0503001700000000, pugrp: 05, punit: 03, chunk: 0023, sectr: 0000}
+==> (a=5, b=3, c=24, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0503001800000000, pugrp: 05, punit: 03, chunk: 0024, sectr: 0000}
+==> (a=5, b=3, c=25, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0503001900000000, pugrp: 05, punit: 03, chunk: 0025, sectr: 0000}
+==> (a=5, b=3, c=26, d=0)
+# nvm_cmd_erase: Input/output error
+# erase: Invalid argument
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0503001a00000000, pugrp: 05, punit: 03, chunk: 0026, sectr: 0000}
+nvm_ret: {result: {cdw0: 0x0, vio: {cs: 0x0}}, status: 0x2c1}
+==> (a=5, b=3, c=27, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0503001b00000000, pugrp: 05, punit: 03, chunk: 0027, sectr: 0000}
+==> (a=5, b=3, c=28, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0503001c00000000, pugrp: 05, punit: 03, chunk: 0028, sectr: 0000}
+==> (a=5, b=3, c=29, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0503001d00000000, pugrp: 05, punit: 03, chunk: 0029, sectr: 0000}
+==> (a=6, b=0, c=0, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0600000000000000, pugrp: 06, punit: 00, chunk: 0000, sectr: 0000}
+==> (a=6, b=0, c=1, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0600000100000000, pugrp: 06, punit: 00, chunk: 0001, sectr: 0000}
+==> (a=6, b=0, c=2, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0600000200000000, pugrp: 06, punit: 00, chunk: 0002, sectr: 0000}
+==> (a=6, b=0, c=3, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0600000300000000, pugrp: 06, punit: 00, chunk: 0003, sectr: 0000}
+==> (a=6, b=0, c=4, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0600000400000000, pugrp: 06, punit: 00, chunk: 0004, sectr: 0000}
+==> (a=6, b=0, c=5, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0600000500000000, pugrp: 06, punit: 00, chunk: 0005, sectr: 0000}
+==> (a=6, b=0, c=6, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0600000600000000, pugrp: 06, punit: 00, chunk: 0006, sectr: 0000}
+==> (a=6, b=0, c=7, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0600000700000000, pugrp: 06, punit: 00, chunk: 0007, sectr: 0000}
+==> (a=6, b=0, c=8, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0600000800000000, pugrp: 06, punit: 00, chunk: 0008, sectr: 0000}
+==> (a=6, b=0, c=9, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0600000900000000, pugrp: 06, punit: 00, chunk: 0009, sectr: 0000}
+==> (a=6, b=0, c=10, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0600000a00000000, pugrp: 06, punit: 00, chunk: 0010, sectr: 0000}
+==> (a=6, b=0, c=11, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0600000b00000000, pugrp: 06, punit: 00, chunk: 0011, sectr: 0000}
+==> (a=6, b=0, c=12, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0600000c00000000, pugrp: 06, punit: 00, chunk: 0012, sectr: 0000}
+==> (a=6, b=0, c=13, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0600000d00000000, pugrp: 06, punit: 00, chunk: 0013, sectr: 0000}
+==> (a=6, b=0, c=14, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0600000e00000000, pugrp: 06, punit: 00, chunk: 0014, sectr: 0000}
+==> (a=6, b=0, c=15, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0600000f00000000, pugrp: 06, punit: 00, chunk: 0015, sectr: 0000}
+==> (a=6, b=0, c=16, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0600001000000000, pugrp: 06, punit: 00, chunk: 0016, sectr: 0000}
+==> (a=6, b=0, c=17, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0600001100000000, pugrp: 06, punit: 00, chunk: 0017, sectr: 0000}
+==> (a=6, b=0, c=18, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0600001200000000, pugrp: 06, punit: 00, chunk: 0018, sectr: 0000}
+==> (a=6, b=0, c=19, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0600001300000000, pugrp: 06, punit: 00, chunk: 0019, sectr: 0000}
+==> (a=6, b=0, c=20, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0600001400000000, pugrp: 06, punit: 00, chunk: 0020, sectr: 0000}
+==> (a=6, b=0, c=21, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0600001500000000, pugrp: 06, punit: 00, chunk: 0021, sectr: 0000}
+==> (a=6, b=0, c=22, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0600001600000000, pugrp: 06, punit: 00, chunk: 0022, sectr: 0000}
+==> (a=6, b=0, c=23, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0600001700000000, pugrp: 06, punit: 00, chunk: 0023, sectr: 0000}
+==> (a=6, b=0, c=24, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0600001800000000, pugrp: 06, punit: 00, chunk: 0024, sectr: 0000}
+==> (a=6, b=0, c=25, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0600001900000000, pugrp: 06, punit: 00, chunk: 0025, sectr: 0000}
+==> (a=6, b=0, c=26, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0600001a00000000, pugrp: 06, punit: 00, chunk: 0026, sectr: 0000}
+==> (a=6, b=0, c=27, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0600001b00000000, pugrp: 06, punit: 00, chunk: 0027, sectr: 0000}
+==> (a=6, b=0, c=28, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0600001c00000000, pugrp: 06, punit: 00, chunk: 0028, sectr: 0000}
+==> (a=6, b=0, c=29, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0600001d00000000, pugrp: 06, punit: 00, chunk: 0029, sectr: 0000}
+==> (a=6, b=1, c=0, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0601000000000000, pugrp: 06, punit: 01, chunk: 0000, sectr: 0000}
+==> (a=6, b=1, c=1, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0601000100000000, pugrp: 06, punit: 01, chunk: 0001, sectr: 0000}
+==> (a=6, b=1, c=2, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0601000200000000, pugrp: 06, punit: 01, chunk: 0002, sectr: 0000}
+==> (a=6, b=1, c=3, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0601000300000000, pugrp: 06, punit: 01, chunk: 0003, sectr: 0000}
+==> (a=6, b=1, c=4, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0601000400000000, pugrp: 06, punit: 01, chunk: 0004, sectr: 0000}
+==> (a=6, b=1, c=5, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0601000500000000, pugrp: 06, punit: 01, chunk: 0005, sectr: 0000}
+==> (a=6, b=1, c=6, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0601000600000000, pugrp: 06, punit: 01, chunk: 0006, sectr: 0000}
+==> (a=6, b=1, c=7, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0601000700000000, pugrp: 06, punit: 01, chunk: 0007, sectr: 0000}
+==> (a=6, b=1, c=8, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0601000800000000, pugrp: 06, punit: 01, chunk: 0008, sectr: 0000}
+==> (a=6, b=1, c=9, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0601000900000000, pugrp: 06, punit: 01, chunk: 0009, sectr: 0000}
+==> (a=6, b=1, c=10, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0601000a00000000, pugrp: 06, punit: 01, chunk: 0010, sectr: 0000}
+==> (a=6, b=1, c=11, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0601000b00000000, pugrp: 06, punit: 01, chunk: 0011, sectr: 0000}
+==> (a=6, b=1, c=12, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0601000c00000000, pugrp: 06, punit: 01, chunk: 0012, sectr: 0000}
+==> (a=6, b=1, c=13, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0601000d00000000, pugrp: 06, punit: 01, chunk: 0013, sectr: 0000}
+==> (a=6, b=1, c=14, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0601000e00000000, pugrp: 06, punit: 01, chunk: 0014, sectr: 0000}
+==> (a=6, b=1, c=15, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0601000f00000000, pugrp: 06, punit: 01, chunk: 0015, sectr: 0000}
+==> (a=6, b=1, c=16, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0601001000000000, pugrp: 06, punit: 01, chunk: 0016, sectr: 0000}
+==> (a=6, b=1, c=17, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0601001100000000, pugrp: 06, punit: 01, chunk: 0017, sectr: 0000}
+==> (a=6, b=1, c=18, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0601001200000000, pugrp: 06, punit: 01, chunk: 0018, sectr: 0000}
+==> (a=6, b=1, c=19, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0601001300000000, pugrp: 06, punit: 01, chunk: 0019, sectr: 0000}
+==> (a=6, b=1, c=20, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0601001400000000, pugrp: 06, punit: 01, chunk: 0020, sectr: 0000}
+==> (a=6, b=1, c=21, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0601001500000000, pugrp: 06, punit: 01, chunk: 0021, sectr: 0000}
+==> (a=6, b=1, c=22, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0601001600000000, pugrp: 06, punit: 01, chunk: 0022, sectr: 0000}
+==> (a=6, b=1, c=23, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0601001700000000, pugrp: 06, punit: 01, chunk: 0023, sectr: 0000}
+==> (a=6, b=1, c=24, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0601001800000000, pugrp: 06, punit: 01, chunk: 0024, sectr: 0000}
+==> (a=6, b=1, c=25, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0601001900000000, pugrp: 06, punit: 01, chunk: 0025, sectr: 0000}
+==> (a=6, b=1, c=26, d=0)
+# nvm_cmd_erase: Input/output error
+# erase: Invalid argument
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0601001a00000000, pugrp: 06, punit: 01, chunk: 0026, sectr: 0000}
+nvm_ret: {result: {cdw0: 0x0, vio: {cs: 0x0}}, status: 0x2c1}
+==> (a=6, b=1, c=27, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0601001b00000000, pugrp: 06, punit: 01, chunk: 0027, sectr: 0000}
+==> (a=6, b=1, c=28, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0601001c00000000, pugrp: 06, punit: 01, chunk: 0028, sectr: 0000}
+==> (a=6, b=1, c=29, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0601001d00000000, pugrp: 06, punit: 01, chunk: 0029, sectr: 0000}
+==> (a=6, b=2, c=0, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0602000000000000, pugrp: 06, punit: 02, chunk: 0000, sectr: 0000}
+==> (a=6, b=2, c=1, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0602000100000000, pugrp: 06, punit: 02, chunk: 0001, sectr: 0000}
+==> (a=6, b=2, c=2, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0602000200000000, pugrp: 06, punit: 02, chunk: 0002, sectr: 0000}
+==> (a=6, b=2, c=3, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0602000300000000, pugrp: 06, punit: 02, chunk: 0003, sectr: 0000}
+==> (a=6, b=2, c=4, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0602000400000000, pugrp: 06, punit: 02, chunk: 0004, sectr: 0000}
+==> (a=6, b=2, c=5, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0602000500000000, pugrp: 06, punit: 02, chunk: 0005, sectr: 0000}
+==> (a=6, b=2, c=6, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0602000600000000, pugrp: 06, punit: 02, chunk: 0006, sectr: 0000}
+==> (a=6, b=2, c=7, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0602000700000000, pugrp: 06, punit: 02, chunk: 0007, sectr: 0000}
+==> (a=6, b=2, c=8, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0602000800000000, pugrp: 06, punit: 02, chunk: 0008, sectr: 0000}
+==> (a=6, b=2, c=9, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0602000900000000, pugrp: 06, punit: 02, chunk: 0009, sectr: 0000}
+==> (a=6, b=2, c=10, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0602000a00000000, pugrp: 06, punit: 02, chunk: 0010, sectr: 0000}
+==> (a=6, b=2, c=11, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0602000b00000000, pugrp: 06, punit: 02, chunk: 0011, sectr: 0000}
+==> (a=6, b=2, c=12, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0602000c00000000, pugrp: 06, punit: 02, chunk: 0012, sectr: 0000}
+==> (a=6, b=2, c=13, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0602000d00000000, pugrp: 06, punit: 02, chunk: 0013, sectr: 0000}
+==> (a=6, b=2, c=14, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0602000e00000000, pugrp: 06, punit: 02, chunk: 0014, sectr: 0000}
+==> (a=6, b=2, c=15, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0602000f00000000, pugrp: 06, punit: 02, chunk: 0015, sectr: 0000}
+==> (a=6, b=2, c=16, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0602001000000000, pugrp: 06, punit: 02, chunk: 0016, sectr: 0000}
+==> (a=6, b=2, c=17, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0602001100000000, pugrp: 06, punit: 02, chunk: 0017, sectr: 0000}
+==> (a=6, b=2, c=18, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0602001200000000, pugrp: 06, punit: 02, chunk: 0018, sectr: 0000}
+==> (a=6, b=2, c=19, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0602001300000000, pugrp: 06, punit: 02, chunk: 0019, sectr: 0000}
+==> (a=6, b=2, c=20, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0602001400000000, pugrp: 06, punit: 02, chunk: 0020, sectr: 0000}
+==> (a=6, b=2, c=21, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0602001500000000, pugrp: 06, punit: 02, chunk: 0021, sectr: 0000}
+==> (a=6, b=2, c=22, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0602001600000000, pugrp: 06, punit: 02, chunk: 0022, sectr: 0000}
+==> (a=6, b=2, c=23, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0602001700000000, pugrp: 06, punit: 02, chunk: 0023, sectr: 0000}
+==> (a=6, b=2, c=24, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0602001800000000, pugrp: 06, punit: 02, chunk: 0024, sectr: 0000}
+==> (a=6, b=2, c=25, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0602001900000000, pugrp: 06, punit: 02, chunk: 0025, sectr: 0000}
+==> (a=6, b=2, c=26, d=0)
+# nvm_cmd_erase: Input/output error
+# erase: Invalid argument
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0602001a00000000, pugrp: 06, punit: 02, chunk: 0026, sectr: 0000}
+nvm_ret: {result: {cdw0: 0x0, vio: {cs: 0x0}}, status: 0x2c1}
+==> (a=6, b=2, c=27, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0602001b00000000, pugrp: 06, punit: 02, chunk: 0027, sectr: 0000}
+==> (a=6, b=2, c=28, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0602001c00000000, pugrp: 06, punit: 02, chunk: 0028, sectr: 0000}
+==> (a=6, b=2, c=29, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0602001d00000000, pugrp: 06, punit: 02, chunk: 0029, sectr: 0000}
+==> (a=6, b=3, c=0, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0603000000000000, pugrp: 06, punit: 03, chunk: 0000, sectr: 0000}
+==> (a=6, b=3, c=1, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0603000100000000, pugrp: 06, punit: 03, chunk: 0001, sectr: 0000}
+==> (a=6, b=3, c=2, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0603000200000000, pugrp: 06, punit: 03, chunk: 0002, sectr: 0000}
+==> (a=6, b=3, c=3, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0603000300000000, pugrp: 06, punit: 03, chunk: 0003, sectr: 0000}
+==> (a=6, b=3, c=4, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0603000400000000, pugrp: 06, punit: 03, chunk: 0004, sectr: 0000}
+==> (a=6, b=3, c=5, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0603000500000000, pugrp: 06, punit: 03, chunk: 0005, sectr: 0000}
+==> (a=6, b=3, c=6, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0603000600000000, pugrp: 06, punit: 03, chunk: 0006, sectr: 0000}
+==> (a=6, b=3, c=7, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0603000700000000, pugrp: 06, punit: 03, chunk: 0007, sectr: 0000}
+==> (a=6, b=3, c=8, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0603000800000000, pugrp: 06, punit: 03, chunk: 0008, sectr: 0000}
+==> (a=6, b=3, c=9, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0603000900000000, pugrp: 06, punit: 03, chunk: 0009, sectr: 0000}
+==> (a=6, b=3, c=10, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0603000a00000000, pugrp: 06, punit: 03, chunk: 0010, sectr: 0000}
+==> (a=6, b=3, c=11, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0603000b00000000, pugrp: 06, punit: 03, chunk: 0011, sectr: 0000}
+==> (a=6, b=3, c=12, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0603000c00000000, pugrp: 06, punit: 03, chunk: 0012, sectr: 0000}
+==> (a=6, b=3, c=13, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0603000d00000000, pugrp: 06, punit: 03, chunk: 0013, sectr: 0000}
+==> (a=6, b=3, c=14, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0603000e00000000, pugrp: 06, punit: 03, chunk: 0014, sectr: 0000}
+==> (a=6, b=3, c=15, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0603000f00000000, pugrp: 06, punit: 03, chunk: 0015, sectr: 0000}
+==> (a=6, b=3, c=16, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0603001000000000, pugrp: 06, punit: 03, chunk: 0016, sectr: 0000}
+==> (a=6, b=3, c=17, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0603001100000000, pugrp: 06, punit: 03, chunk: 0017, sectr: 0000}
+==> (a=6, b=3, c=18, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0603001200000000, pugrp: 06, punit: 03, chunk: 0018, sectr: 0000}
+==> (a=6, b=3, c=19, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0603001300000000, pugrp: 06, punit: 03, chunk: 0019, sectr: 0000}
+==> (a=6, b=3, c=20, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0603001400000000, pugrp: 06, punit: 03, chunk: 0020, sectr: 0000}
+==> (a=6, b=3, c=21, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0603001500000000, pugrp: 06, punit: 03, chunk: 0021, sectr: 0000}
+==> (a=6, b=3, c=22, d=0)
+# nvm_cmd_erase: Input/output error
+# erase: Invalid argument
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0603001600000000, pugrp: 06, punit: 03, chunk: 0022, sectr: 0000}
+nvm_ret: {result: {cdw0: 0x0, vio: {cs: 0x0}}, status: 0x2c1}
+==> (a=6, b=3, c=23, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0603001700000000, pugrp: 06, punit: 03, chunk: 0023, sectr: 0000}
+==> (a=6, b=3, c=24, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0603001800000000, pugrp: 06, punit: 03, chunk: 0024, sectr: 0000}
+==> (a=6, b=3, c=25, d=0)
+# nvm_cmd_erase: Input/output error
+# erase: Invalid argument
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0603001900000000, pugrp: 06, punit: 03, chunk: 0025, sectr: 0000}
+nvm_ret: {result: {cdw0: 0x0, vio: {cs: 0x0}}, status: 0x2c1}
+==> (a=6, b=3, c=26, d=0)
+# nvm_cmd_erase: Input/output error
+# erase: Invalid argument
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0603001a00000000, pugrp: 06, punit: 03, chunk: 0026, sectr: 0000}
+nvm_ret: {result: {cdw0: 0x0, vio: {cs: 0x0}}, status: 0x2c1}
+==> (a=6, b=3, c=27, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0603001b00000000, pugrp: 06, punit: 03, chunk: 0027, sectr: 0000}
+==> (a=6, b=3, c=28, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0603001c00000000, pugrp: 06, punit: 03, chunk: 0028, sectr: 0000}
+==> (a=6, b=3, c=29, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0603001d00000000, pugrp: 06, punit: 03, chunk: 0029, sectr: 0000}
+==> (a=7, b=0, c=0, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0700000000000000, pugrp: 07, punit: 00, chunk: 0000, sectr: 0000}
+==> (a=7, b=0, c=1, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0700000100000000, pugrp: 07, punit: 00, chunk: 0001, sectr: 0000}
+==> (a=7, b=0, c=2, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0700000200000000, pugrp: 07, punit: 00, chunk: 0002, sectr: 0000}
+==> (a=7, b=0, c=3, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0700000300000000, pugrp: 07, punit: 00, chunk: 0003, sectr: 0000}
+==> (a=7, b=0, c=4, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0700000400000000, pugrp: 07, punit: 00, chunk: 0004, sectr: 0000}
+==> (a=7, b=0, c=5, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0700000500000000, pugrp: 07, punit: 00, chunk: 0005, sectr: 0000}
+==> (a=7, b=0, c=6, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0700000600000000, pugrp: 07, punit: 00, chunk: 0006, sectr: 0000}
+==> (a=7, b=0, c=7, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0700000700000000, pugrp: 07, punit: 00, chunk: 0007, sectr: 0000}
+==> (a=7, b=0, c=8, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0700000800000000, pugrp: 07, punit: 00, chunk: 0008, sectr: 0000}
+==> (a=7, b=0, c=9, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0700000900000000, pugrp: 07, punit: 00, chunk: 0009, sectr: 0000}
+==> (a=7, b=0, c=10, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0700000a00000000, pugrp: 07, punit: 00, chunk: 0010, sectr: 0000}
+==> (a=7, b=0, c=11, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0700000b00000000, pugrp: 07, punit: 00, chunk: 0011, sectr: 0000}
+==> (a=7, b=0, c=12, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0700000c00000000, pugrp: 07, punit: 00, chunk: 0012, sectr: 0000}
+==> (a=7, b=0, c=13, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0700000d00000000, pugrp: 07, punit: 00, chunk: 0013, sectr: 0000}
+==> (a=7, b=0, c=14, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0700000e00000000, pugrp: 07, punit: 00, chunk: 0014, sectr: 0000}
+==> (a=7, b=0, c=15, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0700000f00000000, pugrp: 07, punit: 00, chunk: 0015, sectr: 0000}
+==> (a=7, b=0, c=16, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0700001000000000, pugrp: 07, punit: 00, chunk: 0016, sectr: 0000}
+==> (a=7, b=0, c=17, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0700001100000000, pugrp: 07, punit: 00, chunk: 0017, sectr: 0000}
+==> (a=7, b=0, c=18, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0700001200000000, pugrp: 07, punit: 00, chunk: 0018, sectr: 0000}
+==> (a=7, b=0, c=19, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0700001300000000, pugrp: 07, punit: 00, chunk: 0019, sectr: 0000}
+==> (a=7, b=0, c=20, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0700001400000000, pugrp: 07, punit: 00, chunk: 0020, sectr: 0000}
+==> (a=7, b=0, c=21, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0700001500000000, pugrp: 07, punit: 00, chunk: 0021, sectr: 0000}
+==> (a=7, b=0, c=22, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0700001600000000, pugrp: 07, punit: 00, chunk: 0022, sectr: 0000}
+==> (a=7, b=0, c=23, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0700001700000000, pugrp: 07, punit: 00, chunk: 0023, sectr: 0000}
+==> (a=7, b=0, c=24, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0700001800000000, pugrp: 07, punit: 00, chunk: 0024, sectr: 0000}
+==> (a=7, b=0, c=25, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0700001900000000, pugrp: 07, punit: 00, chunk: 0025, sectr: 0000}
+==> (a=7, b=0, c=26, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0700001a00000000, pugrp: 07, punit: 00, chunk: 0026, sectr: 0000}
+==> (a=7, b=0, c=27, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0700001b00000000, pugrp: 07, punit: 00, chunk: 0027, sectr: 0000}
+==> (a=7, b=0, c=28, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0700001c00000000, pugrp: 07, punit: 00, chunk: 0028, sectr: 0000}
+==> (a=7, b=0, c=29, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0700001d00000000, pugrp: 07, punit: 00, chunk: 0029, sectr: 0000}
+==> (a=7, b=1, c=0, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0701000000000000, pugrp: 07, punit: 01, chunk: 0000, sectr: 0000}
+==> (a=7, b=1, c=1, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0701000100000000, pugrp: 07, punit: 01, chunk: 0001, sectr: 0000}
+==> (a=7, b=1, c=2, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0701000200000000, pugrp: 07, punit: 01, chunk: 0002, sectr: 0000}
+==> (a=7, b=1, c=3, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0701000300000000, pugrp: 07, punit: 01, chunk: 0003, sectr: 0000}
+==> (a=7, b=1, c=4, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0701000400000000, pugrp: 07, punit: 01, chunk: 0004, sectr: 0000}
+==> (a=7, b=1, c=5, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0701000500000000, pugrp: 07, punit: 01, chunk: 0005, sectr: 0000}
+==> (a=7, b=1, c=6, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0701000600000000, pugrp: 07, punit: 01, chunk: 0006, sectr: 0000}
+==> (a=7, b=1, c=7, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0701000700000000, pugrp: 07, punit: 01, chunk: 0007, sectr: 0000}
+==> (a=7, b=1, c=8, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0701000800000000, pugrp: 07, punit: 01, chunk: 0008, sectr: 0000}
+==> (a=7, b=1, c=9, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0701000900000000, pugrp: 07, punit: 01, chunk: 0009, sectr: 0000}
+==> (a=7, b=1, c=10, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0701000a00000000, pugrp: 07, punit: 01, chunk: 0010, sectr: 0000}
+==> (a=7, b=1, c=11, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0701000b00000000, pugrp: 07, punit: 01, chunk: 0011, sectr: 0000}
+==> (a=7, b=1, c=12, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0701000c00000000, pugrp: 07, punit: 01, chunk: 0012, sectr: 0000}
+==> (a=7, b=1, c=13, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0701000d00000000, pugrp: 07, punit: 01, chunk: 0013, sectr: 0000}
+==> (a=7, b=1, c=14, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0701000e00000000, pugrp: 07, punit: 01, chunk: 0014, sectr: 0000}
+==> (a=7, b=1, c=15, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0701000f00000000, pugrp: 07, punit: 01, chunk: 0015, sectr: 0000}
+==> (a=7, b=1, c=16, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0701001000000000, pugrp: 07, punit: 01, chunk: 0016, sectr: 0000}
+==> (a=7, b=1, c=17, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0701001100000000, pugrp: 07, punit: 01, chunk: 0017, sectr: 0000}
+==> (a=7, b=1, c=18, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0701001200000000, pugrp: 07, punit: 01, chunk: 0018, sectr: 0000}
+==> (a=7, b=1, c=19, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0701001300000000, pugrp: 07, punit: 01, chunk: 0019, sectr: 0000}
+==> (a=7, b=1, c=20, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0701001400000000, pugrp: 07, punit: 01, chunk: 0020, sectr: 0000}
+==> (a=7, b=1, c=21, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0701001500000000, pugrp: 07, punit: 01, chunk: 0021, sectr: 0000}
+==> (a=7, b=1, c=22, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0701001600000000, pugrp: 07, punit: 01, chunk: 0022, sectr: 0000}
+==> (a=7, b=1, c=23, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0701001700000000, pugrp: 07, punit: 01, chunk: 0023, sectr: 0000}
+==> (a=7, b=1, c=24, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0701001800000000, pugrp: 07, punit: 01, chunk: 0024, sectr: 0000}
+==> (a=7, b=1, c=25, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0701001900000000, pugrp: 07, punit: 01, chunk: 0025, sectr: 0000}
+==> (a=7, b=1, c=26, d=0)
+# nvm_cmd_erase: Input/output error
+# erase: Invalid argument
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0701001a00000000, pugrp: 07, punit: 01, chunk: 0026, sectr: 0000}
+nvm_ret: {result: {cdw0: 0x0, vio: {cs: 0x0}}, status: 0x2c1}
+==> (a=7, b=1, c=27, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0701001b00000000, pugrp: 07, punit: 01, chunk: 0027, sectr: 0000}
+==> (a=7, b=1, c=28, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0701001c00000000, pugrp: 07, punit: 01, chunk: 0028, sectr: 0000}
+==> (a=7, b=1, c=29, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0701001d00000000, pugrp: 07, punit: 01, chunk: 0029, sectr: 0000}
+==> (a=7, b=2, c=0, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0702000000000000, pugrp: 07, punit: 02, chunk: 0000, sectr: 0000}
+==> (a=7, b=2, c=1, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0702000100000000, pugrp: 07, punit: 02, chunk: 0001, sectr: 0000}
+==> (a=7, b=2, c=2, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0702000200000000, pugrp: 07, punit: 02, chunk: 0002, sectr: 0000}
+==> (a=7, b=2, c=3, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0702000300000000, pugrp: 07, punit: 02, chunk: 0003, sectr: 0000}
+==> (a=7, b=2, c=4, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0702000400000000, pugrp: 07, punit: 02, chunk: 0004, sectr: 0000}
+==> (a=7, b=2, c=5, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0702000500000000, pugrp: 07, punit: 02, chunk: 0005, sectr: 0000}
+==> (a=7, b=2, c=6, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0702000600000000, pugrp: 07, punit: 02, chunk: 0006, sectr: 0000}
+==> (a=7, b=2, c=7, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0702000700000000, pugrp: 07, punit: 02, chunk: 0007, sectr: 0000}
+==> (a=7, b=2, c=8, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0702000800000000, pugrp: 07, punit: 02, chunk: 0008, sectr: 0000}
+==> (a=7, b=2, c=9, d=0)
+# nvm_cmd_erase: Input/output error
+# erase: Invalid argument
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0702000900000000, pugrp: 07, punit: 02, chunk: 0009, sectr: 0000}
+nvm_ret: {result: {cdw0: 0x0, vio: {cs: 0x0}}, status: 0x2c1}
+==> (a=7, b=2, c=10, d=0)
+# nvm_cmd_erase: Input/output error
+# erase: Invalid argument
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0702000a00000000, pugrp: 07, punit: 02, chunk: 0010, sectr: 0000}
+nvm_ret: {result: {cdw0: 0x0, vio: {cs: 0x0}}, status: 0x2c1}
+==> (a=7, b=2, c=11, d=0)
+# nvm_cmd_erase: Input/output error
+# erase: Invalid argument
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0702000b00000000, pugrp: 07, punit: 02, chunk: 0011, sectr: 0000}
+nvm_ret: {result: {cdw0: 0x0, vio: {cs: 0x0}}, status: 0x2c1}
+==> (a=7, b=2, c=12, d=0)
+# nvm_cmd_erase: Input/output error
+# erase: Invalid argument
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0702000c00000000, pugrp: 07, punit: 02, chunk: 0012, sectr: 0000}
+nvm_ret: {result: {cdw0: 0x0, vio: {cs: 0x0}}, status: 0x2c1}
+==> (a=7, b=2, c=13, d=0)
+# nvm_cmd_erase: Input/output error
+# erase: Invalid argument
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0702000d00000000, pugrp: 07, punit: 02, chunk: 0013, sectr: 0000}
+nvm_ret: {result: {cdw0: 0x0, vio: {cs: 0x0}}, status: 0x2c1}
+==> (a=7, b=2, c=14, d=0)
+# nvm_cmd_erase: Input/output error
+# erase: Invalid argument
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0702000e00000000, pugrp: 07, punit: 02, chunk: 0014, sectr: 0000}
+nvm_ret: {result: {cdw0: 0x0, vio: {cs: 0x0}}, status: 0x2c1}
+==> (a=7, b=2, c=15, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0702000f00000000, pugrp: 07, punit: 02, chunk: 0015, sectr: 0000}
+==> (a=7, b=2, c=16, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0702001000000000, pugrp: 07, punit: 02, chunk: 0016, sectr: 0000}
+==> (a=7, b=2, c=17, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0702001100000000, pugrp: 07, punit: 02, chunk: 0017, sectr: 0000}
+==> (a=7, b=2, c=18, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0702001200000000, pugrp: 07, punit: 02, chunk: 0018, sectr: 0000}
+==> (a=7, b=2, c=19, d=0)
+# nvm_cmd_erase: Input/output error
+# erase: Invalid argument
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0702001300000000, pugrp: 07, punit: 02, chunk: 0019, sectr: 0000}
+nvm_ret: {result: {cdw0: 0x0, vio: {cs: 0x0}}, status: 0x2c1}
+==> (a=7, b=2, c=20, d=0)
+# nvm_cmd_erase: Input/output error
+# erase: Invalid argument
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0702001400000000, pugrp: 07, punit: 02, chunk: 0020, sectr: 0000}
+nvm_ret: {result: {cdw0: 0x0, vio: {cs: 0x0}}, status: 0x2c1}
+==> (a=7, b=2, c=21, d=0)
+# nvm_cmd_erase: Input/output error
+# erase: Invalid argument
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0702001500000000, pugrp: 07, punit: 02, chunk: 0021, sectr: 0000}
+nvm_ret: {result: {cdw0: 0x0, vio: {cs: 0x0}}, status: 0x2c1}
+==> (a=7, b=2, c=22, d=0)
+# nvm_cmd_erase: Input/output error
+# erase: Invalid argument
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0702001600000000, pugrp: 07, punit: 02, chunk: 0022, sectr: 0000}
+nvm_ret: {result: {cdw0: 0x0, vio: {cs: 0x0}}, status: 0x2c1}
+==> (a=7, b=2, c=23, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0702001700000000, pugrp: 07, punit: 02, chunk: 0023, sectr: 0000}
+==> (a=7, b=2, c=24, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0702001800000000, pugrp: 07, punit: 02, chunk: 0024, sectr: 0000}
+==> (a=7, b=2, c=25, d=0)
+# nvm_cmd_erase: Input/output error
+# erase: Invalid argument
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0702001900000000, pugrp: 07, punit: 02, chunk: 0025, sectr: 0000}
+nvm_ret: {result: {cdw0: 0x0, vio: {cs: 0x0}}, status: 0x2c1}
+==> (a=7, b=2, c=26, d=0)
+# nvm_cmd_erase: Input/output error
+# erase: Invalid argument
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0702001a00000000, pugrp: 07, punit: 02, chunk: 0026, sectr: 0000}
+nvm_ret: {result: {cdw0: 0x0, vio: {cs: 0x0}}, status: 0x2c1}
+==> (a=7, b=2, c=27, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0702001b00000000, pugrp: 07, punit: 02, chunk: 0027, sectr: 0000}
+==> (a=7, b=2, c=28, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0702001c00000000, pugrp: 07, punit: 02, chunk: 0028, sectr: 0000}
+==> (a=7, b=2, c=29, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0702001d00000000, pugrp: 07, punit: 02, chunk: 0029, sectr: 0000}
+==> (a=7, b=3, c=0, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0703000000000000, pugrp: 07, punit: 03, chunk: 0000, sectr: 0000}
+==> (a=7, b=3, c=1, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0703000100000000, pugrp: 07, punit: 03, chunk: 0001, sectr: 0000}
+==> (a=7, b=3, c=2, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0703000200000000, pugrp: 07, punit: 03, chunk: 0002, sectr: 0000}
+==> (a=7, b=3, c=3, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0703000300000000, pugrp: 07, punit: 03, chunk: 0003, sectr: 0000}
+==> (a=7, b=3, c=4, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0703000400000000, pugrp: 07, punit: 03, chunk: 0004, sectr: 0000}
+==> (a=7, b=3, c=5, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0703000500000000, pugrp: 07, punit: 03, chunk: 0005, sectr: 0000}
+==> (a=7, b=3, c=6, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0703000600000000, pugrp: 07, punit: 03, chunk: 0006, sectr: 0000}
+==> (a=7, b=3, c=7, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0703000700000000, pugrp: 07, punit: 03, chunk: 0007, sectr: 0000}
+==> (a=7, b=3, c=8, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0703000800000000, pugrp: 07, punit: 03, chunk: 0008, sectr: 0000}
+==> (a=7, b=3, c=9, d=0)
+# nvm_cmd_erase: Input/output error
+# erase: Invalid argument
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0703000900000000, pugrp: 07, punit: 03, chunk: 0009, sectr: 0000}
+nvm_ret: {result: {cdw0: 0x0, vio: {cs: 0x0}}, status: 0x2c1}
+==> (a=7, b=3, c=10, d=0)
+# nvm_cmd_erase: Input/output error
+# erase: Invalid argument
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0703000a00000000, pugrp: 07, punit: 03, chunk: 0010, sectr: 0000}
+nvm_ret: {result: {cdw0: 0x0, vio: {cs: 0x0}}, status: 0x2c1}
+==> (a=7, b=3, c=11, d=0)
+# nvm_cmd_erase: Input/output error
+# erase: Invalid argument
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0703000b00000000, pugrp: 07, punit: 03, chunk: 0011, sectr: 0000}
+nvm_ret: {result: {cdw0: 0x0, vio: {cs: 0x0}}, status: 0x2c1}
+==> (a=7, b=3, c=12, d=0)
+# nvm_cmd_erase: Input/output error
+# erase: Invalid argument
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0703000c00000000, pugrp: 07, punit: 03, chunk: 0012, sectr: 0000}
+nvm_ret: {result: {cdw0: 0x0, vio: {cs: 0x0}}, status: 0x2c1}
+==> (a=7, b=3, c=13, d=0)
+# nvm_cmd_erase: Input/output error
+# erase: Invalid argument
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0703000d00000000, pugrp: 07, punit: 03, chunk: 0013, sectr: 0000}
+nvm_ret: {result: {cdw0: 0x0, vio: {cs: 0x0}}, status: 0x2c1}
+==> (a=7, b=3, c=14, d=0)
+# nvm_cmd_erase: Input/output error
+# erase: Invalid argument
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0703000e00000000, pugrp: 07, punit: 03, chunk: 0014, sectr: 0000}
+nvm_ret: {result: {cdw0: 0x0, vio: {cs: 0x0}}, status: 0x2c1}
+==> (a=7, b=3, c=15, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0703000f00000000, pugrp: 07, punit: 03, chunk: 0015, sectr: 0000}
+==> (a=7, b=3, c=16, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0703001000000000, pugrp: 07, punit: 03, chunk: 0016, sectr: 0000}
+==> (a=7, b=3, c=17, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0703001100000000, pugrp: 07, punit: 03, chunk: 0017, sectr: 0000}
+==> (a=7, b=3, c=18, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0703001200000000, pugrp: 07, punit: 03, chunk: 0018, sectr: 0000}
+==> (a=7, b=3, c=19, d=0)
+# nvm_cmd_erase: Input/output error
+# erase: Invalid argument
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0703001300000000, pugrp: 07, punit: 03, chunk: 0019, sectr: 0000}
+nvm_ret: {result: {cdw0: 0x0, vio: {cs: 0x0}}, status: 0x2c1}
+==> (a=7, b=3, c=20, d=0)
+# nvm_cmd_erase: Input/output error
+# erase: Invalid argument
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0703001400000000, pugrp: 07, punit: 03, chunk: 0020, sectr: 0000}
+nvm_ret: {result: {cdw0: 0x0, vio: {cs: 0x0}}, status: 0x2c1}
+==> (a=7, b=3, c=21, d=0)
+# nvm_cmd_erase: Input/output error
+# erase: Invalid argument
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0703001500000000, pugrp: 07, punit: 03, chunk: 0021, sectr: 0000}
+nvm_ret: {result: {cdw0: 0x0, vio: {cs: 0x0}}, status: 0x2c1}
+==> (a=7, b=3, c=22, d=0)
+# nvm_cmd_erase: Input/output error
+# erase: Invalid argument
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0703001600000000, pugrp: 07, punit: 03, chunk: 0022, sectr: 0000}
+nvm_ret: {result: {cdw0: 0x0, vio: {cs: 0x0}}, status: 0x2c1}
+==> (a=7, b=3, c=23, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0703001700000000, pugrp: 07, punit: 03, chunk: 0023, sectr: 0000}
+==> (a=7, b=3, c=24, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0703001800000000, pugrp: 07, punit: 03, chunk: 0024, sectr: 0000}
+==> (a=7, b=3, c=25, d=0)
+# nvm_cmd_erase: Input/output error
+# erase: Invalid argument
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0703001900000000, pugrp: 07, punit: 03, chunk: 0025, sectr: 0000}
+nvm_ret: {result: {cdw0: 0x0, vio: {cs: 0x0}}, status: 0x2c1}
+==> (a=7, b=3, c=26, d=0)
+# nvm_cmd_erase: Input/output error
+# erase: Invalid argument
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0703001a00000000, pugrp: 07, punit: 03, chunk: 0026, sectr: 0000}
+nvm_ret: {result: {cdw0: 0x0, vio: {cs: 0x0}}, status: 0x2c1}
+==> (a=7, b=3, c=27, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0703001b00000000, pugrp: 07, punit: 03, chunk: 0027, sectr: 0000}
+==> (a=7, b=3, c=28, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0703001c00000000, pugrp: 07, punit: 03, chunk: 0028, sectr: 0000}
+==> (a=7, b=3, c=29, d=0)
+# nvm_cmd_erase: {pmode: SNGL}
+naddrs: 1
+addrs:
+  - {val: 0x0703001d00000000, pugrp: 07, punit: 03, chunk: 0029, sectr: 0000}
