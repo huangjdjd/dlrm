@@ -51,7 +51,7 @@ int dense_feature = 256;
 int data_size = 800;//40 
 int batch_size = 60;
 int cache_size = 6*lookup_num*batch_size;
-string s = "LRU_RMC3"; 
+string s = "LRU_RMC2"; 
 int epochs = 2;
 double start_time;
 std::ofstream myfile;
@@ -489,7 +489,7 @@ int main(int argc, char *argv[])
 	std::string loc_states, loc_labels;
     loc_states = "1";
     //loc_labels = {"1"};
-    
+   double program_start_time=omp_get_wtime(); 
     torch::Tensor test,train,train2;
     //auto net = std::make_shared<Net>();
     
@@ -519,7 +519,7 @@ int main(int argc, char *argv[])
     myfile.open(s);
     myfile<<"'Time';'Channel';'PU';'Read';'Write'"<<endl;
 	cout <<"run  "<<s<<endl;
-    start_time = omp_get_wtime();
+   // start_time = omp_get_wtime();
     
 
     auto net2 = std::make_shared<Net2>();
@@ -534,10 +534,11 @@ int main(int argc, char *argv[])
 } catch (const std::exception& e) {
     std::cerr << "寫入異常: " << e.what() << std::endl;
 }
- // emb_cache.write(); // adjust 
+  emb_cache.write(); // adjust 
 //    emb_cache.pa_init();
     emb_cache.hot_page_count = data_size/4;
     int bb = batch_size;
+    start_time = omp_get_wtime();
     for (size_t epoch = 1; epoch <= epochs; ++epoch){
 
         
@@ -601,9 +602,15 @@ int main(int argc, char *argv[])
             b++;
         }
     }
-
-    myfile.close();
-    
+   double program_end_time=omp_get_wtime();
+    double total_execute_time=program_end_time-program_start_time;
+    cout<<endl;
+    cout<<"total execute time: "<<total_execute_time<<" seconds"<<endl;
+    cout<<"train time: "<<(program_end_time-start_time)<<" seconds"<<endl;
+ 
+string chunk_stats_filename = "chunk_statistics_rmc3" + s2 + "_B" + s3 + "_D" + s4 + ".csv";
+emb_cache.dump_chunk_sector_stats(chunk_stats_filename); 
+// emb_cache.write_chunk_statistics_to_csv(chunk_stats_filename);   
     
 
     // Instantiate an SGD optimization algorithm to update our Net's parameters.

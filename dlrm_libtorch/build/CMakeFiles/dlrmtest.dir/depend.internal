@@ -3,10 +3,10 @@
 
 CMakeFiles/dlrmtest.dir/src/data_transfer.cpp.o
  ../include/data.h
- /home/user/dlrm_libtorch/src/data_transfer.cpp
+ /home/user/dlrm/dlrm_libtorch/src/data_transfer.cpp
 CMakeFiles/dlrmtest.dir/src/dlrmtest.cpp.o
  ../include/data.h
- /home/user/dlrm_libtorch/src/dlrmtest.cpp
+ /home/user/dlrm/dlrm_libtorch/src/dlrmtest.cpp
  /home/user/libtorch/include/ATen/ATen.h
  /home/user/libtorch/include/ATen/CPUGeneratorImpl.h
  /home/user/libtorch/include/ATen/Config.h
@@ -4406,7 +4406,7 @@ CMakeFiles/dlrmtest.dir/src/dlrmtest.cpp.o
  /home/user/libtorch/include/torch/script.h
 CMakeFiles/dlrmtest.dir/src/emb_cache.cpp.o
  ../include/data.h
- /home/user/dlrm_libtorch/src/emb_cache.cpp
+ /home/user/dlrm/dlrm_libtorch/src/emb_cache.cpp
 CMakeFiles/dlrmtest.dir/src/emb_init.cpp.o
  ../include/data.h
- /home/user/dlrm_libtorch/src/emb_init.cpp
+ /home/user/dlrm/dlrm_libtorch/src/emb_init.cpp

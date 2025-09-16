@@ -6,5 +6,5 @@ CXX_FLAGS =  -fopenmp -O3 -DNDEBUG   -D_GLIBCXX_USE_CXX11_ABI=0 -std=gnu++14
 
 CXX_DEFINES = -DUSE_C10D_GLOO -DUSE_DISTRIBUTED -DUSE_RPC -DUSE_TENSORPIPE
 
-CXX_INCLUDES = -I/home/user/dlrm_libtorch/include -isystem /home/user/libtorch/include -isystem /home/user/libtorch/include/torch/csrc/api/include 
+CXX_INCLUDES = -I/home/user/dlrm/dlrm_libtorch/include -isystem /home/user/libtorch/include -isystem /home/user/libtorch/include/torch/csrc/api/include 
 

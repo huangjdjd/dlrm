@@ -9,6 +9,7 @@
 #include <string.h>
 #include <vector>
 #include "data.h"
+#include <fstream>
 using namespace std;
 
 
@@ -72,7 +73,7 @@ void embedding_table_init::concat_emb(){
 
 
 
-struct nvm_addr *write_sync(char *write_buf,int byte){
+struct nvm_addr *embedding_table_init::write_sync(char *write_buf,int byte){
 	struct nvm_dev *dev;
 	const struct nvm_geo *geo;
 
@@ -130,7 +131,7 @@ struct nvm_addr *write_sync(char *write_buf,int byte){
 				if (err) {
 					perror("nvm_cmd_write");
 				}
-							
+			      mark_sectors_valid(addrs, ws_opt);			
 
 				write_byte =geo->l.nbytes*ws_opt;
 				byte = byte - write_byte;
@@ -194,7 +195,90 @@ void embedding_table_init::write(){
 
 
 }
+// 標記扇區為有效
+void embedding_table_init::mark_sectors_valid(const nvm_addr* addrs, int num_addrs) {
+    for (int i = 0; i < num_addrs; i++) {
+        int pu_idx = addrs[i].l.pugrp * geo->l.npunit + addrs[i].l.punit;
+        int chunk_idx = addrs[i].l.chunk;
+        int sectr_idx = addrs[i].l.sectr;
+        
+        // 檢查 sector_states 是否已初始化
+        if (chunkstate[pu_idx][chunk_idx].sector_states.empty()) {
+            chunkstate[pu_idx][chunk_idx].sector_states.resize(sector_num, 0);
+        }
+        
+        // 如果扇區之前是未使用的，標記為有效並增加計數
+        if (chunkstate[pu_idx][chunk_idx].sector_states[sectr_idx] == 0) {
+            chunkstate[pu_idx][chunk_idx].sector_valid++;
+            chunkstate[pu_idx][chunk_idx].sector_states[sectr_idx] = 1; // 標記為有效
+        }
+        // 如果扇區之前是無效的，轉換為有效並更新計數
+        else if (chunkstate[pu_idx][chunk_idx].sector_states[sectr_idx] == 2) {
+            chunkstate[pu_idx][chunk_idx].sector_invalid--;
+            chunkstate[pu_idx][chunk_idx].sector_valid++;
+            chunkstate[pu_idx][chunk_idx].sector_states[sectr_idx] = 1;
+        }
+    }
+}
 
+// 標記扇區為無效
+void embedding_table_init::mark_sector_invalid(const nvm_addr& addr) {
+    int pu_idx = addr.l.pugrp * geo->l.npunit + addr.l.punit;
+    int chunk_idx = addr.l.chunk;
+    int sectr_idx = addr.l.sectr;
+    
+    // 確保 sector_states 已初始化
+    if (chunkstate[pu_idx][chunk_idx].sector_states.empty()) {
+        chunkstate[pu_idx][chunk_idx].sector_states.resize(sector_num, 0);
+    }
+    
+    // 如果扇區當前是有效的，將其標記為無效
+    if (chunkstate[pu_idx][chunk_idx].sector_states[sectr_idx] == 1) {
+        chunkstate[pu_idx][chunk_idx].sector_valid--;
+        chunkstate[pu_idx][chunk_idx].sector_invalid++;
+        chunkstate[pu_idx][chunk_idx].sector_states[sectr_idx] = 2; // 標記為無效
+    }
+}
+
+// 輸出統計資料到CSV
+void embedding_table_init::dump_chunk_sector_stats(const std::string &filename) {
+    std::ofstream csvfile(filename);
+    if (!csvfile.is_open()) {
+        std::cerr << "無法開啟檔案: " << filename << std::endl;
+        return;
+    }
+    
+    csvfile << "PuGrp,PUnit,Chunk,ValidSectors,InvalidSectors,UnusedSectors,ValidRatio,InvalidRatio\n";
+    
+    for (int i = 0; i < geo->l.npugrp * geo->l.npunit; i++) {
+        for (int j = 0; j < geo->l.nchunk; j++) {
+            // 如果 sector_states 未初始化，跳過
+            if (chunkstate[i][j].sector_states.empty()) {
+                continue;
+            }
+            
+            int valid = chunkstate[i][j].sector_valid;
+            int invalid = chunkstate[i][j].sector_invalid;
+            
+            // 只輸出有寫入的 chunk
+            if (valid > 0 || invalid > 0) {
+                int unused = sector_num - valid - invalid;
+                float valid_ratio = (float)valid / sector_num;
+                float invalid_ratio = (float)invalid / sector_num;
+                
+                csvfile << i / geo->l.npunit << "," // PuGrp
+                        << i % geo->l.npunit << "," // PUnit
+                        << j << "," // Chunk
+                        << valid << "," 
+                        << invalid << "," 
+                        << unused << "," 
+                        << valid_ratio << "," 
+                        << invalid_ratio << "\n";
+            }
+        }
+    }
+    csvfile.close();
+}
 void embedding_table_init::pa_init(){
 	write_table = (geo->l.npugrp * geo->l.npunit * geo->l.nsectr * geo->l.nbytes)/getsize_char();
 	write_count = get_table_num()/write_table;

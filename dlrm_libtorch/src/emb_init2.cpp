@@ -8,6 +8,7 @@
 #include <stdio.h>
 #include <string.h>
 #include <vector>
+#include <fstream>
 #include "data2.h"
 using namespace std;
 
@@ -181,7 +182,10 @@ struct nvm_addr *embedding_table_init2::write_sync(char *write_buf,int byte, int
 			if (err) {
 				perror("nvm_cmd_write");
 			}
-						
+			mark_sectors_valid(addrs, ws_opt);
+		//	else{
+		//		 mark_new_write(addrs, ws_opt);	
+		//	}				
 
 			write_byte =geo->l.nbytes*ws_opt;
 			byte = byte - write_byte;
@@ -239,7 +243,67 @@ void embedding_table_init2::write(){
 
 
 }
+// 在 embedding_table_init2 類中添加這個函數
+void embedding_table_init2::mark_sectors_valid(const nvm_addr* addrs, int num_addrs) {
+    for (int i = 0; i < num_addrs; i++) {
+        int pu_idx = addrs[i].l.pugrp * geo->l.npunit + addrs[i].l.punit;
+        int chunk_idx = addrs[i].l.chunk;
+        int sectr_idx = addrs[i].l.sectr;
 
+        // 如果扇區之前是未使用的，標記為有效並增加計數
+        if (chunkstate[pu_idx][chunk_idx].sector_states[sectr_idx] == 0) {
+            chunkstate[pu_idx][chunk_idx].sector_valid++;
+            chunkstate[pu_idx][chunk_idx].sector_states[sectr_idx] = 1; // 標記為有效
+        }
+        // 如果扇區之前是無效的，轉換為有效並更新計數
+        else if (chunkstate[pu_idx][chunk_idx].sector_states[sectr_idx] == 2) {
+            chunkstate[pu_idx][chunk_idx].sector_invalid--;
+            chunkstate[pu_idx][chunk_idx].sector_valid++;
+            chunkstate[pu_idx][chunk_idx].sector_states[sectr_idx] = 1;
+        }
+    }
+}
+
+void embedding_table_init2::mark_sector_invalid(const nvm_addr& addr) {
+    int pu_idx = addr.l.pugrp * geo->l.npunit + addr.l.punit;
+    int chunk_idx = addr.l.chunk;
+    int sectr_idx = addr.l.sectr;
+
+    // 如果扇區當前是有效的，將其標記為無效
+    if (chunkstate[pu_idx][chunk_idx].sector_states[sectr_idx] == 1) {
+        chunkstate[pu_idx][chunk_idx].sector_valid--;
+        chunkstate[pu_idx][chunk_idx].sector_invalid++;
+        chunkstate[pu_idx][chunk_idx].sector_states[sectr_idx] = 2; // 標記為無效
+    }
+}
+void embedding_table_init2::dump_chunk_sector_stats(const std::string &filename) {
+    std::ofstream csvfile(filename);
+    csvfile << "PuGrp,PUnit,Chunk,ValidSectors,InvalidSectors,UnusedSectors,ValidRatio,InvalidRatio\n";
+    
+    for (int i = 0; i < geo->l.npugrp * geo->l.npunit; i++) {
+        for (int j = 0; j < geo->l.nchunk; j++) {
+            // 只輸出有寫入的 chunk
+            int valid = chunkstate[i][j].sector_valid;
+            int invalid = chunkstate[i][j].sector_invalid;
+            
+            if (valid > 0 || invalid > 0) {
+                int unused = geo->l.nsectr - valid - invalid;
+                float valid_ratio = (float)valid / geo->l.nsectr;
+                float invalid_ratio = (float)invalid / geo->l.nsectr;
+                
+                csvfile << i / geo->l.npunit << "," // PuGrp
+                        << i % geo->l.npunit << "," // PUnit
+                        << j << "," // Chunk
+                        << valid << "," 
+                        << invalid << "," 
+                        << unused << "," 
+                        << valid_ratio << "," 
+                        << invalid_ratio << "\n";
+            }
+        }
+    }
+    csvfile.close();
+}
 void embedding_table_init2::pa_init(){
 	size_t nchunks = geo->l.npugrp * geo->l.npunit;
 

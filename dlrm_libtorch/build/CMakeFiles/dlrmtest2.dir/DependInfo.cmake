@@ -4,10 +4,10 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/user/dlrm_libtorch/src/data_transfer2.cpp" "/home/user/dlrm_libtorch/build/CMakeFiles/dlrmtest2.dir/src/data_transfer2.cpp.o"
-  "/home/user/dlrm_libtorch/src/dlrmtest2.cpp" "/home/user/dlrm_libtorch/build/CMakeFiles/dlrmtest2.dir/src/dlrmtest2.cpp.o"
-  "/home/user/dlrm_libtorch/src/emb_cache2.cpp" "/home/user/dlrm_libtorch/build/CMakeFiles/dlrmtest2.dir/src/emb_cache2.cpp.o"
-  "/home/user/dlrm_libtorch/src/emb_init2.cpp" "/home/user/dlrm_libtorch/build/CMakeFiles/dlrmtest2.dir/src/emb_init2.cpp.o"
+  "/home/user/dlrm/dlrm_libtorch/src/data_transfer2.cpp" "/home/user/dlrm/dlrm_libtorch/build/CMakeFiles/dlrmtest2.dir/src/data_transfer2.cpp.o"
+  "/home/user/dlrm/dlrm_libtorch/src/dlrmtest2.cpp" "/home/user/dlrm/dlrm_libtorch/build/CMakeFiles/dlrmtest2.dir/src/dlrmtest2.cpp.o"
+  "/home/user/dlrm/dlrm_libtorch/src/emb_cache2.cpp" "/home/user/dlrm/dlrm_libtorch/build/CMakeFiles/dlrmtest2.dir/src/emb_cache2.cpp.o"
+  "/home/user/dlrm/dlrm_libtorch/src/emb_init2.cpp" "/home/user/dlrm/dlrm_libtorch/build/CMakeFiles/dlrmtest2.dir/src/emb_init2.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

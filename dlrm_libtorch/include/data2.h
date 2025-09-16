@@ -1,6 +1,7 @@
 #ifndef DATA2_H
 #define DATA2_H
 #include <iostream>
+#include<iomanip>
 #include <stdio.h>
 #include <liblightnvm.h>
 #include <liblightnvm_spec.h>
@@ -29,10 +30,12 @@ struct emb_vec_page{
 };
 
 struct chunk_state{
-	chunk_state(): invalid_vector_num(0){};
+	// chunk_state(): invalid_vector_num(0){};
+	chunk_state(): invalid_vector_num(0), sector_valid(0), sector_invalid(0){};
 	int invalid_vector_num;
-
-	
+	int sector_valid;
+	int sector_invalid;
+	vector<uint8_t>sector_states;   // 0=unused,1=valid,2=invalid
 };
 
 struct write_buffer{
@@ -151,6 +154,9 @@ class embedding_table_init2:protected DATA{
 			chunkstate = new chunk_state*[geo->l.npugrp * geo->l.npunit];
 			for (int i = 0 ; i <  geo->l.npugrp * geo->l.npunit ;i++){
 				chunkstate[i] = new chunk_state[geo->l.nchunk];
+				    for (uint32_t j=0;j<geo->l.nchunk;j++){
+       					 chunkstate[i][j].sector_states.assign(geo->l.nsectr,0);
+   				 }
 			}
 			vector_page_offset = geo->l.nbytes / (get_dimention() * sizeof(float));
 			chunk_used = 0;
@@ -194,8 +200,11 @@ class embedding_table_init2:protected DATA{
 		int vector_page_offset;
 		int chunk_used;
 		float GC_threshold;
+		void dump_chunk_sector_stats(const std::string &filename);
+		  void mark_sectors_valid(const nvm_addr* addrs, int num_addrs);
+    void mark_sector_invalid(const nvm_addr& addr);
 		struct nvm_addr **pa_table;
-	private:
+		private:
 		int m_table_num;
 		char *emb_table;
 		
@@ -236,7 +245,7 @@ class cache2:public embedding_table_init2{
 
 
 		};
-		
+		 //void write_chunk_statistics_to_csv(const std::string& filename);
 		void read(vector<int> read_vectors, int table_ID);
 		struct nvm_addr transfer_PA(int vec_ID, int table_ID);
 		void Reclaim_vector_page(int table_ID);
@@ -263,7 +272,8 @@ class cache2:public embedding_table_init2{
 			// cout<<" write_page = "<<write_buf[i].write_page_count<<endl;
 			write_buf[i].write_page_count = 0 ;
 		}
-		
+ 
+	
 		struct lrumain *lru_main;
 		nvm_addr GC_pa_table( int vec_start, nvm_addr gc_addr);
 		nvm_addr GC_vectors(vector<int> vectors, int table_ID);

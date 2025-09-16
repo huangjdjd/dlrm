@@ -14,7 +14,7 @@
 #include <map>
 #include <utility>
 #include <unordered_map>
-
+#include <fstream>
 
 using namespace std;
 
@@ -115,8 +115,8 @@ nvm_addr cache2::GC_vectors(vector<int> vectors, int table_ID){
 
         if (err) {
             perror("nvm_cmd_write");
-        }
-
+        } //else mark_new_write(addrs, ws_opt);
+        mark_sectors_valid(addrs, ws_opt);
     }
     delete [] read_buf;
     return chunk_addrs;
@@ -199,6 +199,7 @@ void cache2::GC_ondemand( ){
         nvm_addr gc[1];
         gc[0] = gc_addr;
         err = nvm_cmd_erase(dev,gc, 1 ,NULL,0x0,NULL);
+	//if(!err) reset_chunk_state(gc[0]);
         if(err) cout<<"nvm_cmd_erase err"<<endl;
         cout<<"nvm_cmd_erase: "<<gc_addr.l.chunk<<endl;
     }
@@ -380,7 +381,9 @@ void cache2::Reclaim_cold_table(int table_ID, int v ){
                         0x0, NULL);
     if (err) {
         perror("nvm_cmd_write");
+    
     }
+    mark_sectors_valid(pa, ws_opt);
     int table_countx = table_ID * write_table;
 
     //???????????????????????????
@@ -533,7 +536,8 @@ void cache2::Reclaim_vector_page(int table_ID){
                 nvm_addr old_addr = transfer_PA(reclaim[i * vector_page_offset + j].first, table_ID);
 
                 chunkstate[old_addr.l.pugrp * geo->l.npunit + old_addr.l.punit][old_addr.l.chunk].invalid_vector_num ++;
-
+	     //	invalidate_physical(old_addr); // 新增：sector invalid
+	     mark_sector_invalid(old_addr);
             }
             
 
@@ -604,7 +608,8 @@ void cache2::Reclaim_vector_page(int table_ID){
                                 0x0, NULL);
         if (err) {
             perror("nvm_cmd_write");
-        }
+        } // else{ mark_new_write(pa, ws_opt);}
+       mark_sectors_valid(pa, ws_opt);
         write_buf[table_ID].write_page_count += ws_opt;
         page_count -= ws_opt;
         //delete [] pa;
@@ -888,7 +893,11 @@ void cache2::read(vector<int> read_vectors, int table_ID){
 
 
 
+// ...existing code...
 
+
+
+// ...existing code...
 // int main(int argc, char **argv)
 // {
 

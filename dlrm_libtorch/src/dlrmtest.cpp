@@ -1,11 +1,11 @@
 #include <torch/torch.h>
 
 #include <iostream>
-
+#include <fstream>
 #include <torch/script.h>
-
+#include <fstream>
 #include <data.h>
-
+#include <iomanip>
 #include <vector>
 #include <omp.h>
 #include <algorithm>
@@ -28,16 +28,16 @@ lookupnum = 120
 
 rmc3
 emb_vector_size = 32
-emb_table = 25;//10
-emb_size = 800000;//2000000
+emb_table = 40;//10
+emb_size = 500000;//2000000
 lookupnum = 20
 
 
 */
 int emb_vector_size = 32;//64
-int emb_table = 25;//32
-int emb_size = 800000;//500000
-int lookup_num = 20;
+int emb_table = 32;//32
+int emb_size = 500000;//500000
+int lookup_num = 80;
 
 
 
@@ -45,7 +45,7 @@ int dense_feature = 256;
 int batch_size = 60;//4
 int data_size = 800;//40
 int cache_size = 6*emb_table*lookup_num*batch_size;
-string s = "LRU_BASE_RMC3"; 
+string s = "LRU_BASE_RMC1"; 
 int epochs = 2;
 double start_time;
 std::ofstream myfile;
@@ -419,7 +419,7 @@ int main(int argc, char *argv[])
 	std::string loc_states, loc_labels;
     loc_states = "1";
     //loc_labels = {"1"};
-    
+   double program_start_time = omp_get_wtime(); 
     torch::Tensor test,train,train2;
     //auto net = std::make_shared<Net>();
     
@@ -447,7 +447,7 @@ int main(int argc, char *argv[])
     myfile.open(s);
     myfile<<"'Time';'Channel';'PU';'Read';'Write'"<<endl;
 	cout <<"run  "<<s<<endl;
-    start_time = omp_get_wtime();
+//    start_time = omp_get_wtime();
 	
     auto data_set = MyDataset(loc_states).map(torch::data::transforms::Stack<>());
     //cout<<data_set.get();
@@ -464,6 +464,7 @@ int main(int argc, char *argv[])
     emb_cache.write();
 //    emb_cache.pa_init();
     int bb = batch_size;
+     start_time = omp_get_wtime();
     for (size_t epoch = 1; epoch <= epochs; ++epoch){
 
 
@@ -543,11 +544,21 @@ int main(int argc, char *argv[])
 	    cout<<"b++2"<<endl;
         }
     }
+   
+    double program_end_time=omp_get_wtime();
+    double total_execute_time=program_end_time-program_start_time;
 
-
+    cout<<endl;
+    cout<<"total execution time: "<<total_execute_time<<" seconds"<<endl;
+    cout<<"training time: "<<(program_end_time-start_time)<<" seconds"<<endl;
+    cout<<"set up time: "<<(start_time-program_start_time)<<" seconds"<<endl;
+   string chunk_stats_filename = "chunk_statistics_rmc1" + s;
+    emb_cache.dump_chunk_sector_stats(chunk_stats_filename);
+    
     // Instantiate an SGD optimization algorithm to update our Net's parameters.
 
-    
+//    string chunk_stats_filename = "base_rmc1_chunk_statistics_" + s2 + "_B" + s3 + "_D" + s4 + ".csv";
+  //  emb_cache.write_chunk_statistics_to_csv(chunk_stats_filename);    
     
     /*
     for (size_t epoch = 1; epoch <= 10; ++epoch)

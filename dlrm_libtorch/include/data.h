@@ -1,4 +1,5 @@
 #include <iostream>
+#include <iomanip>
 #include <stdio.h>
 #include <liblightnvm.h>
 #include <liblightnvm_spec.h>
@@ -22,6 +23,9 @@ struct chunk_state{
 	chunk_state(): invalid_page_num(0), sector(NULL){};
 	int invalid_page_num;
 	bool *sector;
+	int sector_valid;     // 新增: 計數有效扇區
+    int sector_invalid;   // 新增: 計數無效扇區
+    vector<uint8_t> sector_states;  // 新增: 詳細的扇區狀態 (0=未使用, 1=有效, 2=無效)
 };
 
 struct write_buffer{
@@ -129,6 +133,9 @@ class embedding_table_init2:protected DATA{
 			chunkstate = new chunk_state*[geo->l.npugrp * geo->l.npunit];
 			for (int i = 0 ; i <  geo->l.npugrp * geo->l.npunit ;i++){
 				chunkstate[i] = new chunk_state[geo->l.nchunk];
+				for (uint32_t j=0;j<geo->l.nchunk;j++){
+					chunkstate[i][j].sector_states.resize(geo->l.nsectr,0);
+				}
 			}
 			vector_page_offset = geo->l.nbytes / (get_dimention() * sizeof(float));
 			chunk_used = 0;
@@ -148,10 +155,14 @@ class embedding_table_init2:protected DATA{
 		int vector_page_offset;
 		int chunk_used;
 		float GC_threshold;
+		struct nvm_addr**pa_table;
+		 void mark_sectors_valid(const nvm_addr* addrs, int num_addrs);
+    void mark_sector_invalid(const nvm_addr& addr);
+    void dump_chunk_sector_stats(const std::string &filename);
 	private:
 		int m_table_num;
 		char *emb_table;
-		struct nvm_addr **pa_table;
+	
 		
 };
 
@@ -193,6 +204,9 @@ class embedding_table_init:protected DATA{
 			chunkstate = new chunk_state*[geo->l.npugrp * geo->l.npunit];
 			for (int i = 0 ; i <  geo->l.npugrp * geo->l.npunit ;i++){
 				chunkstate[i] = new chunk_state[geo->l.nchunk];
+				for (uint32_t j=0;j<geo->l.nchunk;j++){
+					chunkstate[i][j].sector_states.resize(geo->l.nsectr,0);
+				}
 			}
 			vector_page_offset = geo->l.nbytes / (get_dimention() * sizeof(float));
 			chunk_used = 0;
@@ -213,10 +227,15 @@ class embedding_table_init:protected DATA{
 		int vector_page_offset;
 		int chunk_used;
 		float GC_threshold;
+		struct nvm_addr **pa_table;
+		struct nvm_addr  *write_sync(char *write_buf,int byte);
+		   void mark_sectors_valid(const nvm_addr* addrs, int num_addrs);
+    void mark_sector_invalid(const nvm_addr& addr);
+    void dump_chunk_sector_stats(const std::string &filename);
 	private:
 		int m_table_num;
 		char *emb_table;
-		struct nvm_addr **pa_table;
+		//struct nvm_addr **pa_table;
 		
 };
 
@@ -264,6 +283,8 @@ class cache:public embedding_table_init{
 			//cout<<" write_page = "<<write_buf[i].write_page_count<<endl;
 			write_buf[i].write_page_count = 0 ;
 		}
+		//void write_chunk_statistics_to_csv(const std::string& filename);
+               bool is_chunk_in_pa_table(int pu_id, int chunk_id);
 		int cache_size;
 		int page_count;
 		struct write_buffer *write_buf;

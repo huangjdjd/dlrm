@@ -14,6 +14,7 @@
 #include <utility>
 #include <map>
 #include <list>
+#include <fstream>
 using namespace std;
 
 bool compare(const pair<nvm_addr, int>  &p1,const pair<nvm_addr, int> &p2){
@@ -100,7 +101,7 @@ void cache::GC_ondemand( ){
             if(err) cout<<"nvm_cmd_read err"<<endl;
             err = nvm_cmd_write(dev, pa, ws_opt, buf,
                                         NULL, 0x0, NULL);
-            
+              mark_sectors_valid(pa, ws_opt);
             if(err) cout<<"nvm_cmd_write err"<<endl;
             delete [] buf;
             delete [] pa;
@@ -137,6 +138,7 @@ void cache::GC_ondemand( ){
                                 NULL, 0x0, NULL);
     
     if(err) cout<<"nvm_cmd_write err"<<endl;
+      mark_sectors_valid(pa, ws_opt);
     nvm_addr gc[1];
     gc[0] = gc_addr;
     
@@ -289,7 +291,7 @@ void cache::Reclaim_vector_page(int table_ID){
         }
         chunkstate[old_addr.l.pugrp * geo->l.npunit + old_addr.l.punit][old_addr.l.chunk].sector[old_addr.l.sectr] = 0;
         chunkstate[old_addr.l.pugrp * geo->l.npunit + old_addr.l.punit][old_addr.l.chunk].invalid_page_num ++;
-
+        mark_sector_invalid(old_addr);
 
         pa[i].val = addr.val;
         pa[i].l.sectr = wp + i;
@@ -306,6 +308,7 @@ void cache::Reclaim_vector_page(int table_ID){
     if (err) {
         perror("nvm_cmd_write");
     }
+      mark_sectors_valid(pa, ws_opt);
 	page_count -= ws_opt;
     delete [] write_buff;
 
@@ -513,6 +516,7 @@ void cache::read(vector<int> &read_vectors, int table_ID){
     //t.del_emb_data();
 
 }
+
 
 
 

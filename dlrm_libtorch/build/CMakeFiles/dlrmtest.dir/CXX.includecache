@@ -9,6 +9,8 @@
 ../include/data.h
 iostream
 -
+iomanip
+-
 stdio.h
 -
 liblightnvm.h
@@ -32,22 +34,28 @@ map
 list
 -
 
-/home/user/dlrm_libtorch/src/data_transfer.cpp
+/home/user/dlrm/dlrm_libtorch/src/data_transfer.cpp
 data.h
-/home/user/dlrm_libtorch/src/data.h
+/home/user/dlrm/dlrm_libtorch/src/data.h
 iostream
 -
 random
 -
 
-/home/user/dlrm_libtorch/src/dlrmtest.cpp
+/home/user/dlrm/dlrm_libtorch/src/dlrmtest.cpp
 torch/torch.h
 -
 iostream
 -
+fstream
+-
 torch/script.h
 -
+fstream
+-
 data.h
+-
+iomanip
 -
 vector
 -
@@ -56,7 +64,7 @@ omp.h
 algorithm
 -
 
-/home/user/dlrm_libtorch/src/emb_cache.cpp
+/home/user/dlrm/dlrm_libtorch/src/emb_cache.cpp
 iostream
 -
 stdio.h
@@ -78,7 +86,7 @@ string.h
 vector
 -
 data.h
-/home/user/dlrm_libtorch/src/data.h
+/home/user/dlrm/dlrm_libtorch/src/data.h
 algorithm
 -
 map
@@ -89,8 +97,10 @@ map
 -
 list
 -
+fstream
+-
 
-/home/user/dlrm_libtorch/src/emb_init.cpp
+/home/user/dlrm/dlrm_libtorch/src/emb_init.cpp
 iostream
 -
 stdio.h
@@ -112,7 +122,9 @@ string.h
 vector
 -
 data.h
-/home/user/dlrm_libtorch/src/data.h
+/home/user/dlrm/dlrm_libtorch/src/data.h
+fstream
+-
 
 /home/user/libtorch/include/ATen/ATen.h
 ATen/Context.h

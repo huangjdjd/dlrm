@@ -9,6 +9,8 @@
 ../include/data2.h
 iostream
 -
+iomanip
+-
 stdio.h
 -
 liblightnvm.h
@@ -38,9 +40,9 @@ unordered_map
 utility
 -
 
-/home/user/dlrm_libtorch/src/data_transfer2.cpp
+/home/user/dlrm/dlrm_libtorch/src/data_transfer2.cpp
 data2.h
-/home/user/dlrm_libtorch/src/data2.h
+/home/user/dlrm/dlrm_libtorch/src/data2.h
 iostream
 -
 random
@@ -48,7 +50,7 @@ random
 cstring
 -
 
-/home/user/dlrm_libtorch/src/dlrmtest2.cpp
+/home/user/dlrm/dlrm_libtorch/src/dlrmtest2.cpp
 torch/torch.h
 -
 iostream
@@ -68,7 +70,7 @@ iomanip
 fstream
 -
 
-/home/user/dlrm_libtorch/src/emb_cache2.cpp
+/home/user/dlrm/dlrm_libtorch/src/emb_cache2.cpp
 iostream
 -
 stdio.h
@@ -92,7 +94,7 @@ vector
 list
 -
 data2.h
-/home/user/dlrm_libtorch/src/data2.h
+/home/user/dlrm/dlrm_libtorch/src/data2.h
 algorithm
 -
 map
@@ -101,8 +103,10 @@ utility
 -
 unordered_map
 -
+fstream
+-
 
-/home/user/dlrm_libtorch/src/emb_init2.cpp
+/home/user/dlrm/dlrm_libtorch/src/emb_init2.cpp
 iostream
 -
 stdio.h
@@ -123,8 +127,10 @@ string.h
 -
 vector
 -
+fstream
+-
 data2.h
-/home/user/dlrm_libtorch/src/data2.h
+/home/user/dlrm/dlrm_libtorch/src/data2.h
 
 /home/user/libtorch/include/ATen/ATen.h
 ATen/Context.h

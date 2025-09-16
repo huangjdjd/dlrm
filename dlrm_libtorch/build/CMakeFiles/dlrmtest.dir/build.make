@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/user/dlrm_libtorch
+CMAKE_SOURCE_DIR = /home/user/dlrm/dlrm_libtorch
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/user/dlrm_libtorch/build
+CMAKE_BINARY_DIR = /home/user/dlrm/dlrm_libtorch/build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/dlrmtest.dir/depend.make
@@ -59,16 +59,16 @@ include CMakeFiles/dlrmtest.dir/flags.make
 
 CMakeFiles/dlrmtest.dir/src/dlrmtest.cpp.o: CMakeFiles/dlrmtest.dir/flags.make
 CMakeFiles/dlrmtest.dir/src/dlrmtest.cpp.o: ../src/dlrmtest.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/user/dlrm_libtorch/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/dlrmtest.dir/src/dlrmtest.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/dlrmtest.dir/src/dlrmtest.cpp.o -c /home/user/dlrm_libtorch/src/dlrmtest.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/user/dlrm/dlrm_libtorch/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/dlrmtest.dir/src/dlrmtest.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/dlrmtest.dir/src/dlrmtest.cpp.o -c /home/user/dlrm/dlrm_libtorch/src/dlrmtest.cpp
 
 CMakeFiles/dlrmtest.dir/src/dlrmtest.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dlrmtest.dir/src/dlrmtest.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/user/dlrm_libtorch/src/dlrmtest.cpp > CMakeFiles/dlrmtest.dir/src/dlrmtest.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/user/dlrm/dlrm_libtorch/src/dlrmtest.cpp > CMakeFiles/dlrmtest.dir/src/dlrmtest.cpp.i
 
 CMakeFiles/dlrmtest.dir/src/dlrmtest.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dlrmtest.dir/src/dlrmtest.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/user/dlrm_libtorch/src/dlrmtest.cpp -o CMakeFiles/dlrmtest.dir/src/dlrmtest.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/user/dlrm/dlrm_libtorch/src/dlrmtest.cpp -o CMakeFiles/dlrmtest.dir/src/dlrmtest.cpp.s
 
 CMakeFiles/dlrmtest.dir/src/dlrmtest.cpp.o.requires:
 
@@ -83,16 +83,16 @@ CMakeFiles/dlrmtest.dir/src/dlrmtest.cpp.o.provides.build: CMakeFiles/dlrmtest.d
 
 CMakeFiles/dlrmtest.dir/src/emb_cache.cpp.o: CMakeFiles/dlrmtest.dir/flags.make
 CMakeFiles/dlrmtest.dir/src/emb_cache.cpp.o: ../src/emb_cache.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/user/dlrm_libtorch/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/dlrmtest.dir/src/emb_cache.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/dlrmtest.dir/src/emb_cache.cpp.o -c /home/user/dlrm_libtorch/src/emb_cache.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/user/dlrm/dlrm_libtorch/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/dlrmtest.dir/src/emb_cache.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/dlrmtest.dir/src/emb_cache.cpp.o -c /home/user/dlrm/dlrm_libtorch/src/emb_cache.cpp
 
 CMakeFiles/dlrmtest.dir/src/emb_cache.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dlrmtest.dir/src/emb_cache.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/user/dlrm_libtorch/src/emb_cache.cpp > CMakeFiles/dlrmtest.dir/src/emb_cache.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/user/dlrm/dlrm_libtorch/src/emb_cache.cpp > CMakeFiles/dlrmtest.dir/src/emb_cache.cpp.i
 
 CMakeFiles/dlrmtest.dir/src/emb_cache.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dlrmtest.dir/src/emb_cache.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/user/dlrm_libtorch/src/emb_cache.cpp -o CMakeFiles/dlrmtest.dir/src/emb_cache.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/user/dlrm/dlrm_libtorch/src/emb_cache.cpp -o CMakeFiles/dlrmtest.dir/src/emb_cache.cpp.s
 
 CMakeFiles/dlrmtest.dir/src/emb_cache.cpp.o.requires:
 
@@ -107,16 +107,16 @@ CMakeFiles/dlrmtest.dir/src/emb_cache.cpp.o.provides.build: CMakeFiles/dlrmtest.
 
 CMakeFiles/dlrmtest.dir/src/data_transfer.cpp.o: CMakeFiles/dlrmtest.dir/flags.make
 CMakeFiles/dlrmtest.dir/src/data_transfer.cpp.o: ../src/data_transfer.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/user/dlrm_libtorch/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/dlrmtest.dir/src/data_transfer.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/dlrmtest.dir/src/data_transfer.cpp.o -c /home/user/dlrm_libtorch/src/data_transfer.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/user/dlrm/dlrm_libtorch/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/dlrmtest.dir/src/data_transfer.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/dlrmtest.dir/src/data_transfer.cpp.o -c /home/user/dlrm/dlrm_libtorch/src/data_transfer.cpp
 
 CMakeFiles/dlrmtest.dir/src/data_transfer.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dlrmtest.dir/src/data_transfer.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/user/dlrm_libtorch/src/data_transfer.cpp > CMakeFiles/dlrmtest.dir/src/data_transfer.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/user/dlrm/dlrm_libtorch/src/data_transfer.cpp > CMakeFiles/dlrmtest.dir/src/data_transfer.cpp.i
 
 CMakeFiles/dlrmtest.dir/src/data_transfer.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dlrmtest.dir/src/data_transfer.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/user/dlrm_libtorch/src/data_transfer.cpp -o CMakeFiles/dlrmtest.dir/src/data_transfer.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/user/dlrm/dlrm_libtorch/src/data_transfer.cpp -o CMakeFiles/dlrmtest.dir/src/data_transfer.cpp.s
 
 CMakeFiles/dlrmtest.dir/src/data_transfer.cpp.o.requires:
 
@@ -131,16 +131,16 @@ CMakeFiles/dlrmtest.dir/src/data_transfer.cpp.o.provides.build: CMakeFiles/dlrmt
 
 CMakeFiles/dlrmtest.dir/src/emb_init.cpp.o: CMakeFiles/dlrmtest.dir/flags.make
 CMakeFiles/dlrmtest.dir/src/emb_init.cpp.o: ../src/emb_init.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/user/dlrm_libtorch/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/dlrmtest.dir/src/emb_init.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/dlrmtest.dir/src/emb_init.cpp.o -c /home/user/dlrm_libtorch/src/emb_init.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/user/dlrm/dlrm_libtorch/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/dlrmtest.dir/src/emb_init.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/dlrmtest.dir/src/emb_init.cpp.o -c /home/user/dlrm/dlrm_libtorch/src/emb_init.cpp
 
 CMakeFiles/dlrmtest.dir/src/emb_init.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dlrmtest.dir/src/emb_init.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/user/dlrm_libtorch/src/emb_init.cpp > CMakeFiles/dlrmtest.dir/src/emb_init.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/user/dlrm/dlrm_libtorch/src/emb_init.cpp > CMakeFiles/dlrmtest.dir/src/emb_init.cpp.i
 
 CMakeFiles/dlrmtest.dir/src/emb_init.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dlrmtest.dir/src/emb_init.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/user/dlrm_libtorch/src/emb_init.cpp -o CMakeFiles/dlrmtest.dir/src/emb_init.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/user/dlrm/dlrm_libtorch/src/emb_init.cpp -o CMakeFiles/dlrmtest.dir/src/emb_init.cpp.s
 
 CMakeFiles/dlrmtest.dir/src/emb_init.cpp.o.requires:
 
@@ -174,7 +174,7 @@ dlrmtest: /home/user/libtorch/lib/libkineto.a
 dlrmtest: /usr/local/lib/liblightnvm.a
 dlrmtest: /home/user/libtorch/lib/libc10.so
 dlrmtest: CMakeFiles/dlrmtest.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/user/dlrm_libtorch/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable dlrmtest"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/user/dlrm/dlrm_libtorch/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable dlrmtest"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/dlrmtest.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -194,6 +194,6 @@ CMakeFiles/dlrmtest.dir/clean:
 .PHONY : CMakeFiles/dlrmtest.dir/clean
 
 CMakeFiles/dlrmtest.dir/depend:
-	cd /home/user/dlrm_libtorch/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/user/dlrm_libtorch /home/user/dlrm_libtorch /home/user/dlrm_libtorch/build /home/user/dlrm_libtorch/build /home/user/dlrm_libtorch/build/CMakeFiles/dlrmtest.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/user/dlrm/dlrm_libtorch/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/user/dlrm/dlrm_libtorch /home/user/dlrm/dlrm_libtorch /home/user/dlrm/dlrm_libtorch/build /home/user/dlrm/dlrm_libtorch/build /home/user/dlrm/dlrm_libtorch/build/CMakeFiles/dlrmtest.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/dlrmtest.dir/depend
 
